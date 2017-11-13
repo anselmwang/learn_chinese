@@ -1,0 +1,44 @@
+import anki_utils
+import re
+import matplotlib.pyplot as plt
+import itertools
+
+BOOK_PATH = r"c:\work\GitRoot\learn_chinese\data\11只猫开饼店.txt"
+CARD_PATH = r"c:\work\GitRoot\learn_chinese\output\11只猫开饼店.top50.txt"
+N_WORD_TO_LEARN = 50
+
+col = anki_utils.get_col()
+ids = anki_utils.get_all_cards()
+
+learnt_single_char_set = set(anki_utils.get_single_chars())
+learnt_single_char_set = learnt_single_char_set.union(
+    set(['0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
+         '—', '“', '”', '…', '、', '《', '》', '！', '，', '：', '；', '？', '。']))
+
+words = anki_utils.get_words(anki_utils.get_content(BOOK_PATH))
+
+import pandas as pd
+se = pd.Series([c for c in "".join(words)])
+char_freq_se = se.value_counts()
+
+unknown_chars = []
+for ch in char_freq_se.index:
+    if ch not in learnt_single_char_set:
+        unknown_chars.append(ch)
+
+print("len(unknown_chars):%s" % len(unknown_chars))
+char_list, new_readable_words_list, n_new_readable_word_list, n_readable_word_list, readable_word_ratio_list = anki_utils.calc_learnt_char_vs_readable_unit(
+    char_freq_se,
+    learnt_single_char_set,
+    words)
+
+plt.plot(n_readable_word_list)
+
+with open(r"c:\work\GitRoot\learn_chinese\output\11只猫开饼店.top50.txt", "w", encoding="utf-8") as out_f:
+    for char, words in itertools.islice(zip(char_list, new_readable_words_list), N_WORD_TO_LEARN):
+        out_f.write("%s\t\n" % char)
+        for word in words:
+            if len(word) > 1:
+                out_f.write("%s\t\n" % word)
+
+anki_utils.close_col(col)
