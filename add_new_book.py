@@ -1,10 +1,13 @@
+# very strange.
+# If I send all the code in python console, anki_utils retrieve 0 cards from 第一册 deck
+# however if I run the whole script directly, it works.
 import anki_utils
 import re
 import matplotlib.pyplot as plt
 import itertools
 
-BOOK_PATH = r"c:\work\GitRoot\learn_chinese\data\11只猫开饼店.txt"
-CARD_PATH = r"c:\work\GitRoot\learn_chinese\output\11只猫开饼店.top50.txt"
+BOOK_PATH = r"c:\work\GitRoot\learn_chinese\data\11只猫遇怪猫.txt"
+CARD_PATH = r"c:\work\GitRoot\learn_chinese\output\11只猫遇怪猫.top50.txt"
 N_WORD_TO_LEARN = 50
 
 col = anki_utils.get_col()
@@ -34,7 +37,7 @@ char_list, new_readable_words_list, n_new_readable_word_list, n_readable_word_li
 
 plt.plot(n_readable_word_list)
 
-with open(r"c:\work\GitRoot\learn_chinese\output\11只猫开饼店.top50.txt", "w", encoding="utf-8") as out_f:
+with open(CARD_PATH, "w", encoding="utf-8") as out_f:
     for char, words in itertools.islice(zip(char_list, new_readable_words_list), N_WORD_TO_LEARN):
         out_f.write("%s\t\n" % char)
         for word in words:
@@ -42,3 +45,4 @@ with open(r"c:\work\GitRoot\learn_chinese\output\11只猫开饼店.top50.txt", "
                 out_f.write("%s\t\n" % word)
 
 anki_utils.close_col(col)
+
