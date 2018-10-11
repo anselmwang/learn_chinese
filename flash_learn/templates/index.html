@@ -1,0 +1,80 @@
+<html>
+<head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"></head>
+<style>
+    .candidate_box {
+        font-size: 60px;
+        border-top: 1px solid black;
+        text-align: center;
+    }
+
+    .card {
+        font-size: 300px;
+        text-align: center;
+        padding: 10px;
+    }
+</style>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script>
+    
+    var selected_text = null;
+    function select(event)
+    {
+        $("#single_card").show();
+        $("#side_by_side_card").hide();
+        document.getElementById("single").textContent = event.target.textContent;
+    }
+
+    function left(event)
+    {
+        $("#single_card").hide();
+        $("#side_by_side_card").show();
+        document.getElementById("left").textContent = $(event.target).parent().find(".candidate").text();
+    }
+    function right(event)
+    {
+        $("#single_card").hide();
+        $("#side_by_side_card").show();
+        document.getElementById("right").textContent = $(event.target).parent().find(".candidate").text();
+    }
+
+    $(document).ready(function ()
+    {
+        var candidate_str = "{{candidate_str}}";
+        var candidate_list = candidate_str.split("_");
+        for (let item of candidate_list) {
+            var new_candidate_box = $("#template").find(".candidate_box").clone();
+            new_candidate_box.find(".candidate").text(item);
+            $("#candidate_row").append(new_candidate_box);
+        }       
+    }
+    )
+</script>
+
+<body>
+    <div class="container-fluid">
+        <div class="row" id="single_card" style="display: block;">
+                <div class="col-md-3"></div>
+                <div class="col-md-6 card" id="single">王</div>
+                <div class="col-md-3"></div>
+        </div>
+
+        <div class="row" id="side_by_side_card" style="display: none">
+            <div class="col-md-6 card" id="left">L</div>
+            <div class="col-md-6 card" id="right">R</div>
+        </div>
+        
+        <div class="row" id="candidate_row">
+            
+        </div>
+        <div class="row" id="template" style="display: none;">
+            <div class="col-md-1 candidate_box">
+                <div onclick="select(event)" class="candidate">中</div>
+                <button type="button" class="btn btn-primary" onclick="left(event)">L</button>
+                <button type="button" class="btn btn-success" onclick="right(event)">R</button>
+            </div>
+
+        </div>
+    </div>
+            
+</body>
+</html>
