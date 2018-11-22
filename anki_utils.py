@@ -7,7 +7,8 @@ import re
 import jieba
 
 def get_all_cards():
-    ids = col.findCards(u"deck:'Chinese::第一册'")
+    #ids = col.findCards(u"deck:'Chinese::第一册'")
+    ids = col.findCards(u"deck:'Chinese'")
     return ids
 
 def is_single_char(s):
@@ -43,7 +44,7 @@ def single_char_stat(ids):
     return stat
 
 
-COLLECTION_PATH = u'C:\\Users\\yuwan\\AppData\\Roaming\\Anki2\\User 1\\collection.anki2'
+COLLECTION_PATH = u'C:\\Users\\yuwan\\AppData\\Roaming\\Anki2\\Yu Wang\\collection.anki2'
 # don't worry about another app is using it.
 # If using it, an exception "sqlite3.OperationalError: database is locked" will be throw out.
 

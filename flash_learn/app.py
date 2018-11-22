@@ -1,3 +1,7 @@
+import sys
+import os
+
+sys.path.append(os.getcwd())
 from flask import Flask, render_template, redirect, url_for
 import anki_conn
 
@@ -11,6 +15,9 @@ def index():
 def revise(candidate_str):
     return render_template("index.html", candidate_str=candidate_str)
 
+@app.route('/complete')
+def complete(candidate_str):
+    return render_template("index.html", candidate_str=candidate_str)
 
 app.config["DEBUG"] = True
 if __name__ == "__main__":
