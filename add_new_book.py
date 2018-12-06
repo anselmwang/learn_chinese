@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 import itertools
 import add_pinyin
 
-BOOK_PATH = r"c:\work\GitRoot\learn_chinese\data\小熊宝宝_好朋友.txt"
-CARD_PATH = r"c:\work\GitRoot\learn_chinese\output\小熊宝宝_好朋友.new_word.txt"
+BOOK_PATH = r"c:\work\GitRoot\learn_chinese\data\小熊宝宝_5_大声回答哎.txt"
+CARD_PATH = BOOK_PATH.replace(".txt", ".new_word.txt").replace("\data\\", "\output\\")
 N_WORD_TO_LEARN = 5000
 
 col = anki_utils.get_col()
