@@ -5,6 +5,7 @@ import anki_utils
 import re
 import matplotlib.pyplot as plt
 import itertools
+import common
 import add_pinyin
 
 BOOK_PATH = r"c:\work\GitRoot\learn_chinese\data\小熊宝宝_5_大声回答哎.txt"
@@ -15,9 +16,8 @@ col = anki_utils.get_col()
 ids = anki_utils.get_all_cards()
 
 learnt_single_char_set = set(anki_utils.get_single_chars())
-learnt_single_char_set = learnt_single_char_set.union(
-    set(['0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
-         '—', '“', '”', '…', '、', '《', '》', '！', '，', '：', '；', '？', '。']))
+
+learnt_single_char_set = learnt_single_char_set.union(common.SPECIAL_CHAR_SET)
 
 words = anki_utils.get_words(anki_utils.get_content(BOOK_PATH))
 

@@ -1,0 +1,4509 @@
+柴		chai2
+禾		he2
+柴禾		chai2 he2
+入		ru4
+进入		jin4 ru4
+加入		jia1 ru4
+广		guang3
+广大		guang3 da4
+广告		guang3 gao4
+升		sheng1
+直升机		zhi2 sheng1 ji1
+直升飞机		zhi2 sheng1 fei1 ji1
+足		zu2
+满足		man3 zu2
+足够		zu2 gou4
+业		ye4
+事业		shi4 ye4
+同业公会		tong2 ye4 gong1 hui4
+本		ben3
+根本		gen1 ben3
+哥本哈根		ge1 ben3 ha1 gen1
+平		ping2
+和平		he2 ping2
+平时		ping2 shi2
+几		ji3
+几个		ji3 ge4
+几天		ji3 tian1
+瓜		gua1
+西瓜		xi1 gua1
+南瓜		nan2 gua1
+衣		yi1
+衣服		yi1 fu2
+上衣		shang4 yi1
+万		wan4
+万分		wan4 fen1
+万万		wan4 wan4
+百		bai3
+百合花		bai3 he2 hua1
+百鸟		bai3 niao3
+岁		sui4
+万岁		wan4 sui4
+岁月		sui4 yue4
+古		gu3
+古老		gu3 lao3
+古时		gu3 shi2
+父		fu4
+父亲		fu4 qin1
+教父		jiao4 fu4
+母		mu3
+母亲		mu3 qin1
+母鸡		mu3 ji1
+写		xie3
+写成		xie3 cheng2
+写下		xie3 xia4
+完		wan2
+完全		wan2 quan2
+说完		shuo1 wan2
+收		shou1
+收到		shou1 dao4
+收入		shou1 ru4
+女		nv3
+女儿		nv3 er2
+女人		nv3 ren2
+语		yu3
+话语		hua4 yu3
+外语		wai4 yu3
+千		qian1
+千万		qian1 wan4
+千万别		qian1 wan4 bie2
+李		li3
+行李		xing2 li3
+李想		li3 xiang3
+秀		xiu4
+秀花		xiu4 hua1
+清秀		qing1 xiu4
+主		zhu3
+公主		gong1 zhu3
+主人		zhu3 ren2
+意		yi4
+同意		tong2 yi4
+主意		zhu3 yi4
+先		xian1
+先生		xian1 sheng1
+最先		zui4 xian1
+净		jing4
+干净		gan1 jing4
+干干净净		gan1 gan1 jing4 jing4
+专		zhuan1
+专家		zhuan1 jia1
+专门		zhuan1 men2
+蚂		ma3
+蚁		yi3
+蚂蚁		ma3 yi3
+小蚂蚁		xiao3 ma3 yi3
+诗		shi1
+诗人		shi1 ren2
+诗歌		shi1 ge1
+闭		bi4
+闭上眼睛		bi4 shang4 yan3 jing1
+闭上		bi4 shang4
+立		li4
+成立		cheng2 li4
+立在		li4 zai4
+借		jie4
+借给		jie4 gei3
+借着		jie4 zhe5
+量		liang4
+力量		li4 liang4
+数量		shu4 liang4
+许		xu3
+许多		xu3 duo1
+也许		ye3 xu3
+军		jun1
+军队		jun1 dui4
+进军		jin4 jun1
+井		jing3
+井边		jing3 bian1
+井里		jing3 li3
+王		wang2
+王子		wang2 zi3
+王后		wang2 hou4
+男		nan2
+男人		nan2 ren2
+男孩子		nan2 hai2 zi5
+师		shi1
+老师		lao3 shi1
+乐师		yue4 shi1
+短		duan3
+短发		duan3 fa1
+短短的		duan3 duan3 de5
+淡		dan4
+淡白		dan4 bai2
+淡红		dan4 hong2
+活		huo2
+生活		sheng1 huo2
+活着		huo2 zhe5
+苦		ku3
+痛苦		tong4 ku3
+苦难		ku3 nan4
+非		fei1
+非要		fei1 yao4
+非得		fei1 dei3
+常		chang2
+非常		fei1 chang2
+常常		chang2 chang2
+间		jian1
+房间		fang2 jian1
+时间		shi2 jian1
+伙		huo3
+小伙子		xiao3 huo3 zi5
+家伙		jia1 huo5
+伴		ban4
+伙伴		huo3 ban4
+同伴		tong2 ban4
+选		xuan3
+选手		xuan3 shou3
+选民		xuan3 min2
+江		jiang1
+大江		da4 jiang1
+江湖		jiang1 hu2
+兰		lan2
+荷兰		he2 lan2
+荷兰人		he2 lan2 ren2
+新		xin1
+清新		qing1 xin1
+新年		xin1 nian2
+宜		yi2
+不宜		bu4 yi2
+事宜		shi4 yi2
+实		shi2
+实在		shi2 zai4
+确实		que4 shi2
+色		se4
+绿色		lv4 se4
+白色		bai2 se4
+华		hua2
+华丽		hua2 li4
+升华		sheng1 hua2
+谷		gu3
+山谷		shan1 gu3
+谷草		gu3 cao3
+尽		jin4
+尽情		jin4 qing2
+尽快		jin3 kuai4
+层		ceng2
+一层		yi1 ceng2
+云层		yun2 ceng2
+丰		feng1
+丰满		feng1 man3
+丰收		feng1 shou1
+浪		lang4
+海浪		hai3 lang4
+流浪		liu2 lang4
+作		zuo4
+工作		gong1 zuo4
+作为		zuo4 wei2
+苹		ping2
+苹果		ping2 guo3
+苹果树		ping2 guo3 shu4
+尤		you2
+尤金		you2 jin1
+尤丁		you2 ding1
+其		qi2
+其他		qi2 ta1
+其中		qi2 zhong1
+区		qu1
+区别		qu1 bie2
+地区		di4 qu1
+巨		ju4
+巨人		ju4 ren2
+巨大		ju4 da4
+安		an1
+安全		an1 quan2
+不安		bu4 an1
+甲		jia3
+甲虫		jia3 chong2
+指甲		zhi3 jia3
+识		shi2
+认识		ren4 shi5
+知识		zhi1 shi2
+纷		fen1
+纷纷		fen1 fen1
+纷纷		fen1 fen1
+如		ru2
+如果		ru2 guo3
+假如		jia3 ru2
+洼		wa1
+洼地		wa1 di4
+水洼		shui3 wa1
+首		shou3
+首先		shou3 xian1
+一首		yi1 shou3
+棋		qi2
+象棋		xiang4 qi2
+下棋		xia4 qi2
+观		guan1
+观看		guan1 kan4
+壮观		zhuang4 guan1
+琴		qin2
+风琴		feng1 qin2
+提琴		ti2 qin2
+养		yang3
+养活		yang3 huo2
+养父		yang3 fu4
+休		xiu1
+休想		xiu1 xiang3
+不休		bu4 xiu1
+院		yuan4
+院子		yuan4 zi5
+戏院		xi4 yuan4
+除		chu2
+除了		chu2 le5
+除非		chu2 fei1
+息		xi1
+休息		xiu1 xi1
+信息		xin4 xi1
+您		nin2
+您好		nin2 hao3
+谢谢您		xie4 xie4 nin2
+牵		qian1
+牵着		qian1 zhe5
+牵来		qian1 lai2
+困		kun4
+困难		kun4 nan2
+被困		bei4 kun4
+员		yuan2
+飞行员		fei1 xing2 yuan2
+成员		cheng2 yuan2
+宁		ning2
+安宁		an1 ning2
+宁可		ning4 ke3
+室		shi4
+办公室		ban4 gong1 shi4
+教室		jiao4 shi4
+校		xiao4
+学校		xue2 xiao4
+校长		xiao4 zhang3
+切		qie1
+一切		yi1 qie4
+一切都是		yi1 qie4 dou1 shi4
+元		yuan2
+元首		yuan2 shou3
+元元		yuan2 yuan2
+叹		tan4
+叹息		tan4 xi1
+叹气		tan4 qi4
+迟		chi2
+迟到		chi2 dao4
+说时迟		shuo1 shi2 chi2
+仔		zai3
+鸡仔		ji1 zai3
+仔子		zai3 zi5
+细		xi4
+仔细		zi3 xi4
+细长		xi4 chang2
+计		ji4
+伙计		huo3 ji4
+计算		ji4 suan4
+怦		peng1
+怦怦		peng1 peng1
+怦怦		peng1 peng1
+夕		xi1
+前夕		qian2 xi1
+除夕		chu2 xi1
+与		yu3
+与其		yu3 qi2
+与其说是		yu3 qi2 shuo1 shi4
+川		chuan1
+川流不息		chuan1 liu2 bu4 xi1
+名山大川		ming2 shan1 da4 chuan1
+州		zhou1
+各州		ge4 zhou1
+一州		yi1 zhou1
+台		tai2
+阳台		yang2 tai2
+电台		dian4 tai2
+族		zu2
+家族		jia1 zu2
+民族		min2 zu2
+亿		yi4
+亿个		yi4 ge4
+亿美元		yi4 mei3 yuan2
+洁		jie2
+洁白		jie2 bai2
+清洁		qing1 jie2
+祖		zu3
+祖母		zu3 mu3
+祖先		zu3 xian1
+旗		qi2
+旗子		qi2 zi5
+旗鱼		qi2 yu2
+帜		zhi4
+旗帜		qi2 zhi4
+庆		qing4
+庆祝		qing4 zhu4
+欢庆		huan1 qing4
+曲		qu3
+作曲家		zuo4 qu3 jia1
+曲子		qu3 zi5
+央		yang1
+中央		zhong1 yang1
+央求		yang1 qiu2
+优		you1
+优美		you1 mei3
+优秀		you1 xiu4
+坛		tan2
+花坛		hua1 tan2
+神坛		shen2 tan2
+国		guo2
+国王		guo2 wang2
+国家		guo2 jia1
+申		shen1
+申请		shen1 qing3
+申雪		shen1 xue3
+匹		pi3
+一匹		yi4 pi3
+四匹		si4 pi3
+互		hu4
+互不		hu4 bu4
+地互道		de5 hu4 dao4
+泪		lei4
+眼泪		yan3 lei4
+泪水		lei4 shui3
+洋		yang2
+海洋		hai3 yang2
+洋洋		yang2 yang2
+拥		yong1
+拥有		yong1 you3
+拥抱		yong1 bao4
+相		xiang1
+相信		xiang1 xin4
+互相		hu4 xiang1
+扬		yang2
+飘扬		piao1 yang2
+扬长而去		yang2 chang2 er2 qu4
+讲		jiang3
+讲话		jiang3 hua4
+对讲机		dui4 jiang3 ji1
+故		gu4
+故事		gu4 shi4
+故意		gu4 yi4
+寸		cun4
+一寸		yi1 cun4
+尺寸		chi3 cun4
+补		bu3
+修补		xiu1 bu3
+补丁		bu3 ding1
+功		gong1
+成功		cheng2 gong1
+功能		gong1 neng2
+助		zhu4
+帮助		bang1 zhu4
+助手		zhu4 shou3
+取		qu3
+取出		qu3 chu1
+采取		cai3 qu3
+沿		yan2
+沿着		yan2 zhe5
+沿路		yan2 lu4
+拾		shi2
+收拾		shou1 shi2
+拾起		shi2 qi3
+际		ji4
+国际		guo2 ji4
+实际上		shi2 ji4 shang4
+言		yan2
+语言		yu3 yan2
+自言自语		zi4 yan2 zi4 yu3
+治		zhi4
+治病		zhi4 bing4
+治治		zhi4 zhi4
+思		si1
+思想		si1 xiang3
+意思		yi4 si1
+穿		chuan1
+穿着		chuan1 zhe5
+穿过		chuan1 guo4
+弯		wan1
+弯弯曲曲		wan1 wan1 qu1 qu1
+弯弯曲曲		wan1 wan1 qu1 qu1
+比		bi3
+比克		bi3 ke4
+无比		wu2 bi3
+浅		qian3
+浅绿色		qian3 lv4 se4
+太浅		tai4 qian3
+夫		fu1
+夫人		fu1 ren2
+农夫		nong2 fu1
+表		biao3
+发表		fa1 biao3
+表情		biao3 qing2
+示		shi4
+表示		biao3 shi4
+请示		qing3 shi4
+号		hao4
+号角		hao4 jiao3
+信号		xin4 hao4
+伤		shang1
+伤心		shang1 xin1
+伤害		shang1 hai4
+吸		xi1
+呼吸		hu1 xi1
+吸收		xi1 shou1
+免		mian3
+免得		mian3 de5
+不免		bu4 mian3
+诉		su4
+告诉		gao4 su4
+诉说		su4 shuo1
+斤		jin1
+半斤八两		ban4 jin1 ba1 liang3
+半斤		ban4 jin1
+折		zhe2
+折下		zhe2 xia4
+曲折		qu1 zhe2
+挑		tiao1
+挑选		tiao1 xuan3
+挑战		tiao3 zhan4
+独		du2
+独自		du2 zi4
+独自一人		du2 zi4 yi1 ren2
+容		rong2
+笑容		xiao4 rong2
+整容		zheng3 rong2
+易		yi4
+容易		rong2 yi4
+好不容易		hao3 bu4 rong2 yi4
+板		ban3
+地板		di4 ban3
+老板		lao3 ban3
+但		dan4
+但是		dan4 shi4
+不但		bu4 dan4
+傍		bang4
+傍晚		bang4 wan3
+消		xiao5
+消息		xiao1 xi1
+好消息		hao3 xiao1 xi1
+术		shu4
+法术		fa3 shu4
+手术		shou3 shu4
+注		zhu4
+注意		zhu4 yi4
+题注		ti2 zhu4
+课		ke4
+上课		shang4 ke4
+课本		ke4 ben3
+铅		qian1
+铅笔		qian1 bi3
+铅字		qian1 zi4
+景		jing3
+情景		qing2 jing3
+景象		jing3 xiang4
+扎		zha1
+扎进		zha1 jin4
+扎成		zha1 cheng2
+抓		zhua1
+抓住		zhua1 zhu4
+抓起		zhua1 qi3
+福		fu2
+祝福		zhu4 fu2
+马太福音		ma3 tai4 fu2 yin1
+句		ju4
+一句		yi1 ju4
+这句		zhe4 ju4
+幸		xing4
+幸福		xing4 fu2
+不幸		bu4 xing4
+之		zhi1
+之后		zhi1 hou4
+之间		zhi1 jian1
+轮		lun2
+轮子		lun2 zi5
+轮船		lun2 chuan2
+丑		chou3
+丑小鸭		chou3 xiao3 ya1
+很丑		hen3 chou3
+永		yong3
+永远		yong3 yuan3
+永不		yong3 bu4
+饥		ji1
+饥饿		ji1 e4
+饱		bao3
+吃饱		chi1 bao3
+吃得饱		chi1 de2 bao3
+温		wen1
+温暖		wen1 nuan3
+温和		wen1 he2
+贫		pin2
+贫苦		pin2 ku3
+贫困		pin2 kun4
+富		fu4
+富有		fu4 you3
+丰富		feng1 fu4
+户		hu4
+窗户		chuang1 hu4
+一户		yi1 hu4
+亚		ya4
+亚旗		ya4 qi2
+亚当		ya4 dang1
+周		zhou1
+四周		si4 zhou1
+一周		yi1 zhou1
+始		shi3
+开始		kai1 shi3
+原始		yuan2 shi3
+寻		xun2
+寻找		xun2 zhao3
+寻求		xun2 qiu2
+良		liang2
+良心		liang2 xin1
+良好		liang2 hao3
+双		shuang1
+一双		yi1 shuang1
+双手		shuang1 shou3
+体		ti3
+身体		shen1 ti3
+全体		quan2 ti3
+操		cao1
+操纵		cao1 zong4
+操纵台		cao1 zong4 tai2
+场		chang3
+机场		ji1 chang3
+场面		chang3 mian4
+份		fen4
+身份		shen1 fen4
+一份		yi1 fen4
+粉		fen3
+面粉		mian4 fen3
+粉红色		fen3 hong2 se4
+晴		qing2
+晴天		qing2 tian1
+天晴		tian1 qing2
+姑		gu1
+姑妈		gu1 ma1
+姑姑		gu1 gu1
+娘		niang2
+姑娘		gu1 niang2
+新娘		xin1 niang2
+读		du2
+读书		du2 shu1
+读到		du2 dao4
+舟		zhou1
+方舟		fang1 zhou1
+小舟		xiao3 zhou1
+乘		cheng2
+乘客		cheng2 ke4
+乘着		cheng2 zhe5
+何		he2
+如何		ru2 he2
+何处		he2 chu3
+丛		cong2
+草丛		cao3 cong2
+树丛		shu4 cong2
+牢		lao2
+牢牢地		lao2 lao2 de5
+牢牢地		lao2 lao2 de5
+护		hu4
+护士		hu4 shi4
+救护车		jiu4 hu4 che1
+保		bao3
+保护		bao3 hu4
+保准		bao3 zhun3
+领		ling3
+本领		ben3 ling3
+领着		ling3 zhe5
+跃		yue4
+活跃		huo2 yue4
+跳跃		tiao4 yue4
+蹦		beng4
+蹦蹦跳跳		beng4 beng4 tiao4 tiao4
+蹦蹦跳跳		beng4 beng4 tiao4 tiao4
+灵		ling2
+心灵		xin1 ling2
+生灵		sheng1 ling2
+晨		chen2
+早晨		zao3 chen2
+清晨		qing1 chen2
+失		shi1
+失去		shi1 qu4
+消失		xiao1 shi1
+扔		reng1
+扔进		reng1 jin4
+扔下		reng1 xia4
+久		jiu3
+不久		bu4 jiu3
+多久		duo1 jiu3
+乎		hu1
+几乎		ji1 hu1
+不在乎		bu4 zai4 hu5
+至		zhi4
+至于		zhi4 yu2
+至少		zhi4 shao3
+腰		yao1
+腰带		yao1 dai4
+下腰		xia4 yao1
+粒		li4
+一粒		yi1 li4
+五粒		wu3 li4
+并		bing4
+并非		bing4 fei1
+并不比		bing4 bu4 bi3
+夜		ye4
+夜里		ye4 li3
+夜晚		ye4 wan3
+喜		xi3
+喜欢		xi3 huan1
+喜爱		xi3 ai4
+重		zhong4
+重要		zhong4 yao4
+重新		chong2 xin1
+味		wei4
+味道		wei4 dao4
+气味		qi4 wei4
+刻		ke4
+立刻		li4 ke4
+时刻		shi2 ke4
+群		qun2
+一群		yi1 qun2
+人群		ren2 qun2
+卫		wei4
+卫兵		wei4 bing1
+卫队长		wei4 dui4 zhang3
+运		yun4
+幸运		xing4 yun4
+运气		yun4 qi4
+航		hang2
+航行		hang2 xing2
+宇航员		yu3 hang2 yuan2
+舰		jian4
+航空母舰		hang2 kong1 mu3 jian4
+舰长		jian4 zhang3
+冲		chong1
+冲着		chong1 zhe5
+冲过来		chong1 guo4 lai2
+池		chi2
+电池		dian4 chi2
+水池		shui3 chi2
+浮		fu2
+浮现		fu2 xian4
+浮在		fu2 zai4
+灾		zai1
+灾难		zai1 nan4
+火灾		huo3 zai1
+器		qi4
+机器		ji1 qi4
+机器人		ji1 qi4 ren2
+岸		an4
+岸上		an4 shang4
+海岸		hai3 an4
+纹		wen2
+花纹		hua1 wen2
+纹丝不动		wen2 si1 bu4 dong4
+围		wei2
+周围		zhou1 wei2
+围着		wei2 zhe5
+杯		bei1
+杯子		bei1 zi5
+一杯		yi1 bei1
+须		xu1
+只须		zhi3 xu1
+胡须		hu2 xu1
+必		bi4
+必须		bi4 xu1
+必要		bi4 yao4
+历		li4
+经历		jing1 li4
+历书		li4 shu1
+史		shi3
+历史		li4 shi3
+历史学家		li4 shi3 xue2 jia1
+灭		mie4
+消灭		xiao1 mie4
+灭鼠		mie4 shu3
+化		hua4
+变化		bian4 hua4
+化装		hua4 zhuang1
+代		dai4
+时代		shi2 dai4
+代表		dai4 biao3
+孙		sun1
+孙子		sun1 zi5
+孙女		sun1 nv3
+植		zhi2
+植物		zhi2 wu4
+种植		zhong4 zhi2
+介		jie4
+不介意		bu4 jie4 yi4
+介意		jie4 yi4
+技		ji4
+技术		ji4 shu4
+科学技术		ke1 xue2 ji4 shu4
+纺		fang3
+纺车		fang3 che1
+纺成		fang3 cheng2
+织		zhi1
+织补		zhi1 bu3
+织成		zhi1 cheng2
+脱		tuo1
+摆脱		bai3 tuo1
+脱下		tuo1 xia4
+冻		dong4
+冻得		dong4 de2
+冻死		dong4 si3
+溪		xi1
+小溪		xiao3 xi1
+溪水		xi1 shui3
+棉		mian2
+棉被		mian2 bei4
+棉花		mian2 hua1
+探		tan4
+探望		tan4 wang4
+探头		tan4 tou2
+摇		yao2
+摇摇头		yao2 yao2 tou2
+摇摇头		yao2 yao2 tou2
+野		ye3
+野猫		ye3 mao1
+田野		tian2 ye3
+解		jie3
+了解		liao3 jie3
+理解		li3 jie3
+未		wei4
+未来		wei4 lai2
+从未		cong2 wei4
+追		zhui1
+追赶		zhui1 gan3
+追求		zhui1 qiu2
+店		dian4
+店主		dian4 zhu3
+旅店		lv3 dian4
+枯		ku1
+干枯		gan1 ku1
+枯黄		ku1 huang2
+徐		xu2
+徐徐		xu2 xu2
+徐徐		xu2 xu2
+烧		shao1
+烧掉		shao1 diao4
+火烧		huo3 shao1
+荣		rong2
+光荣		guang1 rong2
+荣幸		rong2 xing4
+菜		cai4
+饭菜		fan4 cai4
+卷心菜		juan4 xin1 cai4
+宿		xiu3
+住宿		zhu4 su4
+一宿		yi1 xiu3
+冈		gang1
+沙冈		sha1 gang1
+沙冈上		sha1 gang1 shang4
+世		shi4
+世上		shi4 shang4
+去世		qu4 shi4
+界		jie4
+世界		shi4 jie4
+全世界		quan2 shi4 jie4
+轰		hong1
+轰炸机		hong1 zha4 ji1
+轰动		hong1 dong4
+笋		sun3
+竹笋		zhu2 sun3
+雨后春笋		yu3 hou4 chun1 sun3
+芽		ya2
+发芽		fa1 ya2
+新芽		xin1 ya2
+唤		huan4
+唤醒		huan4 xing3
+呼唤		hu1 huan4
+骨		gu3
+接骨木		jie1 gu3 mu4
+骨头		gu2 tou5
+抽		chou1
+抽出		chou1 chu1
+抽打		chou1 da3
+拐		guai3
+拐弯		guai3 wan1
+拐棍		guai3 gun4
+终		zhong1
+终于		zhong1 yu2
+最终		zui4 zhong1
+静		jing4
+安静		an1 jing4
+平静		ping2 jing4
+躺		tang3
+躺下来		tang3 xia4 lai2
+躺进		tang3 jin4
+渐		jian4
+渐渐		jian4 jian4
+渐渐		jian4 jian4
+微		wei1
+微笑		wei1 xiao4
+微微		wei1 wei1
+瓦		wa3
+瓦片		wa3 pian4
+瓦块		wa3 kuai4
+泉		quan2
+泉水		quan2 shui3
+清泉		qing1 quan2
+股		gu3
+一股		yi1 gu3
+那股		na4 gu3
+脆		cui4
+干脆		gan1 cui4
+清脆		qing1 cui4
+杜		du4
+杜和		du4 he2
+杜在		du4 zai4
+鹃		juan1
+杜鹃		du4 juan1
+冒		mao4
+冒出来		mao4 chu1 lai2
+冒烟		mao4 yan1
+需		xu1
+需要		xu1 yao4
+并不需要		bing4 bu4 xu1 yao4
+迈		mai4
+年迈		nian2 mai4
+迈着		mai4 zhe5
+迹		ji4
+奇迹		qi2 ji4
+事迹		shi4 ji1
+叔		shu1
+叔叔		shu1 shu1
+叔叔		shu1 shu1
+锋		feng1
+冲锋枪		chong1 feng1 qiang1
+冲锋		chong1 feng1
+滴		di1
+一滴		yi1 di1
+滴答		di1 da2
+洒		sa3
+洒下		sa3 xia4
+洒满		sa3 man3
+泞		ning4
+泥泞		ni2 ning4
+利		li4
+意大利		yi4 da4 li4
+黑利		hei1 li4
+铃		ling2
+门铃		men2 ling2
+铃声		ling2 sheng1
+弱		ruo4
+弱点		ruo4 dian3
+微弱		wei1 ruo4
+末		mo4
+末日		mo4 ri4
+那末		na4 mo4
+芬		fen1
+贝多芬		bei4 duo1 fen1
+芬香		fen1 xiang1
+芳		fang1
+芬芳		fen1 fang1
+芳香		fang1 xiang1
+岛		dao3
+岛上		dao3 shang4
+小岛		xiao3 dao3
+展		zhan3
+展开		zhan3 kai1
+发展		fa1 zhan3
+建		jian4
+建立		jian4 li4
+修建		xiu1 jian4
+纱		sha1
+纺纱		fang3 sha1
+黑纱		hei1 sha1
+环		huan2
+花环		hua1 huan2
+圆环		yuan2 huan2
+绕		rao4
+绕过		rao4 guo4
+围绕		wei2 rao4
+胜		sheng4
+胜利		sheng4 li4
+战胜		zhan4 sheng4
+隐		yin3
+隐藏		yin3 cang2
+隐身		yin3 shen1
+约		yue1
+大约		da4 yue1
+不约而同		bu4 yue1 er2 tong2
+省		sheng3
+节省		jie2 sheng3
+省得		sheng3 de5
+茂		mao4
+丰茂		feng1 mao4
+盛		sheng4
+盛开		sheng4 kai1
+盛大		sheng4 da4
+吾		wu2
+支		zhi1
+支支吾吾		zhi1 zhi1 wu2 wu2
+支支吾吾		zhi1 zhi1 wu2 wu2
+留		liu2
+留下		liu2 xia4
+留在		liu2 zai4
+杏		xing4
+杏树		xing4 shu4
+杏枝		xing4 zhi1
+密		mi4
+保密		bao3 mi4
+茂密		mao4 mi4
+蜜		mi4
+甜蜜		tian2 mi4
+采蜜		cai3 mi4
+坡		po1
+山坡		shan1 po1
+土坡		tu3 po1
+搭		da1
+搭理		da1 li3
+搭救		da1 jiu4
+摘		zhai1
+摘下		zhai1 xia4
+摘下来		zhai1 xia4 lai2
+钉		ding4
+钉子		ding1 zi5
+图钉		tu2 ding1
+沟		gou1
+沟里		gou1 li3
+水沟		shui3 gou1
+恩		en1
+恩人		en1 ren2
+浮恩		fu2 en1
+寿		shou4
+长寿		chang2 shou4
+寿命		shou4 ming4
+柏		bai3
+柏树		bai3 shu4
+柏油		bai3 you2
+泼		po1
+活泼		huo2 po1
+泼水		po1 shui3
+特		te4
+特别		te4 bie2
+特工		te4 gong1
+敬		jing4
+敬礼		jing4 li3
+敬意		jing4 yi4
+鲜		xian3
+新鲜		xin1 xian1
+鲜花		xian1 hua1
+度		du4
+国度		guo2 du4
+度过		du4 guo4
+凤		feng4
+凤头		feng4 tou2
+凤尾草		feng4 wei3 cao3
+凰		huang2
+凤凰		feng4 huang2
+束		shu4
+结束		jie2 shu4
+花束		hua1 shu4
+勾		gou1
+勾当		gou4 dang4
+勾心斗角		gou1 xin1 dou4 jiao3
+府		fu3
+市府		shi4 fu3
+府第		fu3 di4
+单		dan1
+单独		dan1 du2
+单位		dan1 wei4
+夺		duo2
+争夺		zheng1 duo2
+夺走		duo2 zou3
+宫		gong1
+王宫		wang2 gong1
+宫里		gong1 li3
+扮		ban5
+打扮		da3 ban4
+装扮成		zhuang1 ban4 cheng2
+雄		xiong2
+雄鸡		xiong2 ji1
+雄鹿		xiong2 lu4
+伟		wei3
+伟大		wei3 da4
+伟人		wei3 ren2
+烁		shuo4
+闪烁		shan3 shuo4
+闪烁着		shan3 shuo4 zhe5
+辉		hui1
+光辉		guang1 hui1
+生辉		sheng1 hui1
+煌		huang2
+辉煌		hui1 huang2
+灯火辉煌		deng1 huo3 hui1 huang2
+另		ling4
+另外		ling4 wai4
+另一只		ling4 yi1 zhi3
+志		zhi4
+意志		yi4 zhi4
+同志		tong2 zhi4
+漫		man4
+漫长		man4 chang2
+漫不经心		man4 bu4 jing1 xin1
+朗		lang3
+明朗		ming2 lang3
+晴朗		qing2 lang3
+哄		hong3
+起哄		qi3 hong4
+哄笑		hong1 xiao4
+喝		he1
+喝水		he1 shui3
+大喝一声		da4 he1 yi1 sheng1
+骗		pian4
+骗子		pian4 zi5
+骗人		pian4 ren2
+尔		er3
+雨尔根		yu3 er3 gen1
+瓦尔		wa3 er3
+仍		reng2
+仍然		reng2 ran2
+仍住		reng2 zhu4
+使		shi3
+使用		shi3 yong4
+天使		tian1 shi3
+便		bian4
+便是		bian4 shi4
+便会		bian4 hui4
+英		ying1
+英雄		ying1 xiong2
+英国		ying1 guo2
+票		piao4
+门票		men2 piao4
+全票		quan2 piao4
+式		shi4
+方式		fang1 shi4
+正式		zheng4 shi4
+且		qie3
+而且		er2 qie3
+并且		bing4 qie3
+丹		dan1
+约丽丹		yue1 li4 dan1
+卷丹		juan3 dan1
+乌		wu1
+乌云		wu1 yun2
+乌黑		wu1 hei1
+艺		yi4
+艺术		yi4 shu4
+艺术家		yi4 shu4 jia1
+显		xian3
+显得		xian3 de5
+显然		xian3 ran2
+杆		gan3
+杆子		gan1 zi5
+拉杆		la1 gan3
+眨		zha3
+眨眼		zha3 yan3
+一眨眼		yi1 zha3 yan3
+涛		tao1
+浪涛		lang4 tao1
+波涛		bo1 tao1
+陈		chen2
+新陈代谢		xin1 chen2 dai4 xie4
+陈代		chen2 dai4
+转		zhuan3
+转身		zhuan3 shen1
+转动		zhuan4 dong4
+斜		xie2
+斜坡		xie2 po1
+斜眼		xie2 yan3
+含		han2
+包含		bao1 han2
+含有		han2 you3
+炉		lu2
+火炉		huo3 lu2
+炉子		lu2 zi5
+岭		ling3
+翻山越岭		fan1 shan1 yue4 ling3
+山岭		shan1 ling3
+鸣		ming2
+鸣响		ming2 xiang3
+打鸣		da3 ming2
+绝		jue2
+绝对		jue2 dui4
+绝望		jue2 wang4
+银		yin2
+银行		yin2 hang2
+银子		yin2 zi5
+泊		bo2
+湖泊		hu2 po1
+漂泊		piao1 bo2
+垂		chui2
+垂直		chui2 zhi2
+垂下来		chui2 xia4 lai2
+乱		luan4
+乱飞		luan4 fei1
+乱跑		luan4 pao3
+沉		chen2
+沉重		chen2 zhong4
+沉思		chen2 si1
+压		ya1
+压力		ya1 li4
+压在		ya1 zai4
+阵		zhen4
+一阵		yi1 zhen4
+一阵子		yi1 zhen4 zi5
+彩		cai3
+光彩		guang1 cai3
+色彩		se4 cai3
+虹		hong2
+彩虹		cai3 hong2
+虹光		hong2 guang1
+蛛		zhu1
+蜘		zhi1
+蜘蛛		zhi1 zhu1
+蜘蛛网		zhi1 zhu1 wang3
+册		ce4
+画册		hua4 ce4
+花名册		hua1 ming2 ce4
+岩		yan2
+岩石		yan2 shi2
+岩洞		yan2 dong4
+趴		pa1
+趴在		pa1 zai4
+趴下		pa1 xia4
+印		yin4
+印刷厂		yin4 shua1 chang3
+印刷		yin4 shua1
+刨		pao2
+刨花		pao2 hua1
+刨光		pao2 guang1
+埋		mai2
+埋头		mai2 tou2
+埋掉		mai2 diao4
+陆		lu4
+着陆		zhuo2 lu4
+陆地		lu4 di4
+铁		tie3
+吸铁石		xi1 tie3 shi2
+铁炉		tie3 lu2
+质		zhi4
+物质		wu4 zhi4
+气质		qi4 zhi4
+厚		hou4
+厚厚的		hou4 hou4 de5
+厚厚的		hou4 hou4 de5
+忠		zhong1
+忠实		zhong1 shi2
+忠告		zhong1 gao4
+导		dao3
+领导		ling3 dao3
+导弹		dao3 dan4
+盏		zhan3
+一盏		yi1 zhan3
+盏灯		zhan3 deng1
+积		ji1
+积雪		ji1 xue3
+面积		mian4 ji1
+稠		chou2
+稠密		chou2 mi4
+稠得		chou2 de2
+针		zhen1
+指针		zhi3 zhen1
+一针		yi1 zhen1
+慌		huang1
+惊慌		jing1 huang1
+慌忙		huang1 mang2
+商		shang1
+商人		shang1 ren2
+商量		shang1 liang2
+抹		mo3
+抹抹		mo3 mo3
+抹抹		mo3 mo3
+拱		gong3
+拱门		gong3 men2
+拱起		gong3 qi3
+决		jue2
+决定		jue2 ding4
+解决		jie3 jue2
+价		jia4
+代价		dai4 jia4
+身价		shen1 jia4
+钱		qian2
+有钱		you3 qian2
+价钱		jia4 qian2
+购		gou4
+购车		gou4 che1
+比劳购		bi3 lao2 gou4
+批		pi1
+一批		yi1 pi1
+批准		pi1 zhun3
+评		ping2
+批评		pi1 ping2
+批评家		pi1 ping2 jia1
+报		bao4
+报告		bao4 gao4
+报纸		bao4 zhi3
+玻		bo1
+玻人		bo1 ren2
+玻黑		bo1 hei1
+璃		li2
+玻璃		bo1 li5
+玻璃杯		bo2 li5 bei1
+碎		sui4
+碎片		sui4 pian4
+粉碎		fen3 sui4
+滑		hua2
+光滑		guang1 hua2
+滑落		hua2 luo4
+继		ji4
+继母		ji4 mu3
+继而		ji4 er2
+续		xu4
+继续		ji4 xu4
+连续		lian2 xu4
+封		feng1
+一封信		yi1 feng1 xin4
+一封		yi1 feng1
+骄		jiao1
+骄阳		jiao1 yang2
+天之骄子		tian1 zhi1 jiao1 zi5
+傲		ao4
+骄傲		jiao1 ao4
+高傲		gao1 ao4
+膊		bo2
+肢		zhi1
+胳		ge1
+胳膊		ge1 bo5
+胳肢		ge1 zhi1
+甸		dian4
+沉甸甸		chen2 dian4 dian4
+沉甸甸		chen2 dian4 dian4
+晃		huang3
+摇晃		yao2 huang4
+晃动		huang4 dong4
+荡		dang4
+游荡		you2 dang4
+飘荡		piao1 dang4
+叭		ba1
+叭叭		ba1 ba1
+叭叭		ba1 ba1
+糟		zao1
+乱七八糟		luan4 qi1 ba1 zao4
+糟透了		zao1 tou4 le5
+楼		lou2
+楼上		lou2 shang4
+大楼		da4 lou2
+梯		ti1
+楼梯		lou2 ti1
+梯子		ti1 zi5
+肯		ken3
+肯定		ken3 ding4
+不肯		bu4 ken3
+讶		ya4
+惊讶		jing1 ya4
+谈		tan2
+谈起		tan2 qi3
+谈话		tan2 hua4
+派		pai4
+派克		pai4 ke4
+一派		yi1 pai4
+引		yin3
+引起		yin3 qi3
+吸引		xi1 yin3
+列		lie4
+行列		hang2 lie4
+陈列		chen2 lie4
+峰		feng1
+山峰		shan1 feng1
+高峰		gao1 feng1
+敲		qiao1
+敲门		qiao1 men2
+敲响		qiao1 xiang3
+附		fu4
+附近		fu4 jin4
+附在		fu4 zai4
+守		shou3
+看守		kan1 shou3
+守夜人		shou3 ye4 ren2
+焦		jiao1
+焦急		jiao1 ji2
+烤焦		kao3 jiao1
+费		fei4
+费尔		fei4 er3
+免费		mian3 fei4
+此		ci3
+因此		yin1 ci3
+如此		ru2 ci3
+桩		zhuang1
+一桩		yi1 zhuang1
+这桩		zhe4 zhuang1
+肥		fei2
+减肥		jian3 fei2
+肥胖		fei2 pang4
+讨		tao3
+讨好		tao3 hao3
+探讨		tan4 tao3
+厌		yan4
+讨厌		tao3 yan4
+令人讨厌		ling4 ren2 tao3 yan4
+欺		qi1
+欺骗		qi1 pian4
+自欺欺人		zi4 qi1 qi1 ren2
+负		fu4
+欺负		qi1 fu4
+负有		fu4 you3
+翅		chi4
+翅膀		chi4 bang3
+展翅		zhan3 chi4
+勺		shao2
+后脑勺		hou4 nao3 shao2
+勺子		shao2 zi5
+组		zu3
+组长		zu3 zhang3
+组成		zu3 cheng2
+珍		zhen1
+山珍海味		shan1 zhen1 hai3 wei4
+珍宝		zhen1 bao3
+珠		zhu1
+眼珠		yan3 zhu1
+珍珠		zhen1 zhu1
+钻		zuan4
+钻进		zuan1 jin4
+钻出来		zuan1 chu1 lai2
+研		yan2
+钻研		zuan1 yan2
+科研成果		ke1 yan2 cheng2 guo3
+距		ju4
+距离		ju4 li2
+相距		xiang1 ju4
+检		jian3
+体检		ti3 jian3
+公检法		gong1 jian3 fa3
+查		cha2
+检查		jian3 cha2
+检查一下		jian3 cha2 yi1 xia4
+斥		chi4
+喝斥		he4 chi4
+责		ze2
+负责		fu4 ze2
+责备		ze2 bei4
+炎		yan2
+炎热		yan2 re4
+关节炎		guan1 jie2 yan2
+夸		kua1
+夸张		kua1 zhang1
+夸下海口		kua1 xia4 hai3 kou3
+奖		jiang3
+夸奖		kua1 jiang3
+头奖		tou2 jiang3
+亡		wang2
+死亡		si3 wang2
+灭亡		mie4 wang2
+耐		nai4
+耐心		nai4 xin1
+能耐		neng2 nai4
+谜		mi2
+谜语		mi2 yu3
+谜底		mi2 di3
+传		chuan2
+传来		chuan2 lai2
+传说		chuan2 shuo1
+染		ran3
+染上		ran3 shang4
+染得		ran3 de2
+类		lei4
+人类		ren2 lei4
+这类		zhe4 lei4
+严		yan2
+严重		yan2 zhong4
+严严实实		yan2 yan2 shi2 shi2
+寒		han2
+寒冷		han2 leng3
+寒风		han2 feng1
+坪		ping2
+草坪		cao3 ping2
+停机坪		ting2 ji1 ping2
+坝		ba4
+坝子		ba4 zi5
+水坝		shui3 ba4
+招		zhao1
+招呼		zhao1 hu1
+招手		zhao1 shou3
+蝶		die2
+蝴		hu2
+蝴蝶		hu2 die2
+蝴蝶结		hu2 die2 jie2
+孔		kong3
+面孔		mian4 kong3
+鼻孔		bi2 kong3
+雀		que4
+孔雀		kong3 que4
+雀子		qiao1 zi3
+舞		wu3
+跳舞		tiao4 wu3
+舞会		wu3 hui4
+铜		tong2
+铜板		tong2 ban3
+铜门		tong2 men2
+劲		jin4
+使劲		shi3 jin4
+使劲儿		shi3 jin4 er2
+绒		rong2
+天鹅绒		tian1 e2 rong2
+丝绒		si1 rong2
+察		cha2
+观察		guan1 cha2
+察觉		cha2 jue2
+瓣		ban4
+花瓣		hua1 ban4
+一瓣		yi1 ban4
+拢		long3
+合拢		he2 long3
+围拢		wei2 long3
+掌		zhang3
+掌声		zhang3 sheng1
+金掌		jin1 zhang3
+趣		qu4
+有趣		you3 qu4
+兴趣		xing4 qu4
+似		si4
+似的		shi4 de5
+似乎		si4 hu1
+苍		cang1
+苍白		cang1 bai2
+脸色苍白		lian3 se4 cang1 bai2
+仰		yang3
+信仰		xin4 yang3
+仰仗		yang3 zhang4
+咱		zan2
+咱们		zan2 men5
+咱家		za2 jia1
+奋		fen4
+兴奋		xing1 fen4
+奋斗		fen4 dou4
+辫		bian4
+辫子		bian4 zi5
+发辫		fa4 bian4
+居		ju1
+居然		ju1 ran2
+居住		ju1 zhu4
+郊		jiao1
+郊外		jiao1 wai4
+郊游		jiao1 you2
+散		san4
+散发		san4 fa4
+散发出		san4 fa4 chu1
+步		bu4
+一步		yi1 bu4
+散步		san4 bu4
+胸		xiong1
+胸前		xiong1 qian2
+胸口		xiong1 kou3
+脯		pu2
+胸脯		xiong1 pu2
+拍胸脯		pai1 xiong1 pu2
+渣		zha1
+渣儿		zha1 er2
+沉渣		chen2 zha1
+或		huo4
+或是		huo4 shi4
+或许		huo4 xu3
+者		zhe3
+记者		ji4 zhe3
+或者		huo4 zhe3
+惜		xi1
+可惜		ke3 xi1
+珍惜		zhen1 xi1
+低		di1
+低头		di1 tou2
+低声		di1 sheng1
+诚		cheng2
+诚实		cheng2 shi2
+忠诚		zhong1 cheng2
+基		ji1
+基尔		ji1 er3
+基本上		ji1 ben3 shang4
+突		tu1
+突然		tu1 ran2
+突出		tu1 chu1
+弄		nong4
+弄不清		nong4 bu4 qing1
+弄不好		nong4 bu4 hao3
+侧		ce4
+两侧		liang3 ce4
+一侧		yi1 ce4
+辆		liang4
+一辆		yi1 liang4
+这辆		zhe4 liang4
+秘		mi4
+秘书		mi4 shu1
+秘密		mi4 mi4
+杂		za2
+杂志		za2 zhi4
+杂草		za2 cao3
+社		she4
+社会		she4 hui4
+报社		bao4 she4
+著		zhu4
+著名		zhu4 ming2
+著作		zhu4 zuo4
+坑		keng1
+坑里		keng1 li3
+大坑		da4 keng1
+臣		chen2
+大臣		da4 chen2
+臣民		chen2 min2
+推		tui1
+推开		tui1 kai1
+推翻		tui1 fan1
+考		kao3
+思考		si1 kao3
+考场		kao3 chang3
+秦		qin2
+秦龙		qin2 long2
+纪		ji4
+年纪		nian2 ji4
+世纪		shi4 ji4
+遗		yi2
+遗忘		yi2 wang4
+遗产		yi2 chan3
+究		jiu1
+研究		yan2 jiu1
+讲究		jiang3 jiu1
+震		zhen4
+震动		zhen4 dong4
+震惊		zhen4 jing1
+促		cu4
+急促		ji2 cu4
+促使		cu4 shi3
+深		shen1
+深深地		shen1 shen1 de5
+深深地		shen1 shen1 de5
+忆		yi4
+回忆		hui2 yi4
+记忆		ji4 yi4
+异		yi4
+奇异		qi2 yi4
+异常		yi4 chang2
+逢		feng2
+每逢		mei3 feng2
+重逢		chong2 feng2
+佳		jia1
+最佳		zui4 jia1
+绝色佳人		jue2 se4 jia1 ren2
+倍		bei4
+加倍		jia1 bei4
+一倍		yi2 bei4
+遥		yao2
+遥远		yao2 yuan3
+之遥		zhi1 yao2
+遍		bian4
+一遍		yi1 bian4
+传遍		chuan2 bian4
+插		cha1
+插进		cha1 jin4
+插上		cha1 shang4
+精		jing1
+精神		jing1 shen2
+树精		shu4 jing1
+却		que4
+却是		que4 shi4
+却说		que4 shuo1
+依		yi1
+依卜		yi1 bo5
+依然		yi1 ran2
+拼		pin1
+拼命		pin1 ming4
+拼图		pin1 tu2
+奔		ben1
+阿奔		a1 ben1
+奔跑		ben1 pao3
+村		cun1
+村子		cun1 zi5
+村里		cun1 li3
+丧		sang4
+丧失		sang4 shi1
+垂头丧气		chui2 tou2 sang4 qi4
+磨		mo2
+折磨		zhe2 mo2
+磨房		mo2 fang2
+坊		fang1
+磨坊主		mo4 fang2 zhu3
+磨坊		mo4 fang2
+枚		mei2
+一枚		yi1 mei2
+这枚		zhe4 mei2
+邮		you2
+邮票		you2 piao4
+邮车		you2 che1
+爽		shuang3
+爽快		shuang3 kuai4
+清爽		qing1 shuang3
+柿		shi4
+西红柿		xi1 hong2 shi4
+柿子		shi4 zi5
+仙		xian1
+仙女		xian1 nv3
+神仙		shen2 xian1
+梨		li2
+鸭梨		ya1 li2
+梨树		li2 shu4
+紧		jin3
+紧紧		jin3 jin3
+紧紧		jin3 jin3
+杨		yang2
+杨树		yang2 shu4
+黄杨		huang2 yang2
+艳		yan4
+鲜艳		xian1 yan4
+艳丽		yan4 li4
+内		nei4
+内心		nei4 xin1
+体内		ti3 nei4
+苏		su1
+苏宁		su1 ning2
+苏丹		su1 dan1
+湿		shi1
+湿透		shi1 tou4
+风湿病		feng1 shi1 bing4
+娇		jiao1
+娇美		jiao1 mei3
+娇小		jiao1 xiao3
+嫩		nen4
+娇嫩		jiao1 nen4
+细嫩		xi4 nen4
+强		qiang2
+强大		qiang2 da4
+强壮		qiang2 zhuang4
+适		shi4
+合适		he2 shi4
+适合		shi4 he2
+昆		kun1
+昆虫		kun1 chong2
+昆明湖		kun1 ming2 hu2
+播		bo1
+播音员		bo1 yin1 yuan2
+传播		chuan2 bo1
+致		zhi4
+一致		yi2 zhi4
+导致		dao3 zhi4
+论		lun4
+无论		wu2 lun4
+谈论		tan2 lun4
+试		shi4
+试试		shi4 shi4
+试试		shi4 shi4
+验		yan4
+试验		shi4 yan4
+经验		jing1 yan4
+袋		dai4
+脑袋		nao3 dai4
+口袋		kou3 dai4
+证		zheng4
+保证		bao3 zheng4
+证明		zheng4 ming2
+概		gai4
+大概		da4 gai4
+概念		gai4 nian4
+阻		zu3
+推三阻四		tui1 san1 zu3 si4
+测		ce4
+推测		tui1 ce4
+测量		ce4 liang2
+括		kuo4
+包括		bao1 kuo4
+干括		gan4 kuo4
+误		wu4
+错误		cuo4 wu4
+准确无误		zhun3 que4 wu2 wu4
+途		tu2
+途中		tu2 zhong1
+前途		qian2 tu2
+堂		tang2
+教堂		jiao4 tang2
+天堂		tian1 tang2
+镜		jing4
+眼镜		yan3 jing4
+镜子		jing4 zi5
+闲		xian2
+空闲		kong4 xian2
+闲谈		xian2 tan2
+待		dai4
+等待		deng3 dai4
+对待		dui4 dai4
+阅		yue4
+阅读		yue4 du2
+翻阅		fan1 yue4
+随		sui2
+随后		sui2 hou4
+随着		sui2 zhe5
+调		diao4
+调子		diao4 zi5
+调查		diao4 cha2
+简		jian3
+简直		jian3 zhi2
+简单		jian3 dan1
+拜		bai4
+礼拜天		li3 bai4 tian1
+做礼拜		zuo4 li3 bai4
+访		fang3
+拜访		bai4 fang3
+访问		fang3 wen4
+闻		wen2
+新闻		xin1 wen2
+闻到		wen2 dao4
+尘		chen2
+尘土		chen2 tu3
+灰尘		hui1 chen2
+仆		pu2
+仆人		pu2 ren2
+女仆		nv3 pu2
+纳		na4
+接纳		jie1 na4
+纳得		na4 de2
+闷		men4
+纳闷		na4 men4
+沉闷		chen2 men4
+丘		qiu1
+沙丘		sha1 qiu1
+山丘		shan1 qiu1
+止		zhi3
+停止		ting2 zhi3
+为止		wei2 zhi3
+境		jing4
+环境		huan2 jing4
+处境		chu3 jing4
+授		shou4
+教授		jiao4 shou4
+传授		chuan2 shou4
+品		pin3
+作品		zuo4 pin3
+食品		shi2 pin3
+暗		an4
+黑暗		hei1 an4
+暗室		an4 shi4
+降		jiang4
+降落		jiang4 luo4
+降临		jiang4 lin2
+丈		zhang4
+丈夫		zhang4 fu1
+火冒三丈		huo3 mao4 san1 zhang4
+肌		ji1
+肌肉		ji1 rou4
+肌体		ji1 ti3
+肤		fu1
+皮肤		pi2 fu1
+肤色		fu1 se4
+辽		liao2
+辽远		liao2 yuan3
+阔		kuo4
+广阔		guang3 kuo4
+高阔		gao1 kuo4
+血		xue4
+血亲		xue4 qin1
+鲜血		xian1 xue4
+液		ye4
+血液		xue4 ye4
+液体		ye4 ti3
+滋		zi1
+滋味儿		zi1 wei4 er2
+滋味		zi1 wei4
+润		run4
+红润		hong2 run4
+湿润		shi1 run4
+创		chuang4
+创作		chuang4 zuo4
+创世纪		chuang4 shi4 ji4
+造		zao4
+创造		chuang4 zao4
+造成		zao4 cheng2
+县		xian4
+县城		xian4 cheng2
+县长		xian4 zhang3
+设		she4
+设法		she4 fa3
+设备		she4 bei4
+参		can1
+参加		can1 jia1
+参观		can1 guan1
+部		bu4
+全部		quan2 bu4
+部下		bu4 xia4
+横		heng2
+横冲直撞		heng2 chong1 zhi2 zhuang4
+横行		heng2 xing2
+跨		kua4
+跨过		kua4 guo4
+跨进		kua4 jin4
+举		ju3
+举行		ju3 xing2
+举起		ju3 qi3
+击		ji1
+击中		ji1 zhong4
+打击		da3 ji1
+坚		jian1
+坚信		jian1 xin4
+坚强		jian1 qiang2
+固		gu4
+固定		gu4 ding4
+坚固		jian1 gu4
+栏		lan2
+牛栏		niu2 lan2
+栏杆		lan2 gan1
+案		an4
+答案		da2 an4
+方案		fang1 an4
+爪		zhao3
+爪子		zhua3 zi3
+前爪		qian2 zhua3
+贵		gui4
+高贵		gao1 gui4
+贵族		gui4 zu2
+断		duan4
+不断		bu4 duan4
+断定		duan4 ding4
+楚		chu3
+清楚		qing1 chu3
+清清楚楚		qing1 qing1 chu3 chu3
+孤		gu1
+孤独		gu1 du2
+孤零零		gu1 ling2 ling2
+帆		fan1
+船帆		chuan2 fan1
+帆船		fan1 chuan2
+懒		lan3
+懒得		lan3 de5
+偷懒		tou1 lan3
+披		pi1
+披上		pi1 shang4
+披风		pi1 feng1
+划		hua2
+计划		ji4 hua4
+划着		hua4 zhe5
+威		wei1
+威力		wei1 li4
+威风		wei1 feng1
+武		wu3
+武器		wu3 qi4
+武力		wu3 li4
+拣		jian3
+拣起		jian3 qi3
+拣出		jian3 chu1
+形		xing2
+形象		xing2 xiang4
+情形		qing2 xing2
+状		zhuang4
+形状		xing2 zhuang4
+奇形怪状		qi2 xing2 guai4 zhuang4
+渔		yu2
+渔夫		yu2 fu1
+渔民		yu2 min2
+料		liao4
+照料		zhao4 liao4
+草料		cao3 liao4
+辈		bei4
+一辈子		yi1 bei4 zi5
+这辈子		zhe4 bei4 zi5
+汇		hui4
+汇报		hui4 bao4
+汇合		hui4 he2
+欣		xin1
+欣喜		xin1 xi3
+欣然同意		xin1 ran2 tong2 yi4
+赏		shang3
+欣赏		xin1 shang3
+奖赏		jiang3 shang3
+映		ying4
+倒映在		dao4 ying4 zai4
+映着		ying4 zhe5
+挡		dang3
+挡住		dang3 zhu4
+阻挡		zu3 dang3
+视		shi4
+电视		dian4 shi4
+电视台		dian4 shi4 tai2
+线		xian4
+光线		guang1 xian4
+视线		shi4 xian4
+浸		jin4
+沉浸		chen2 jin4
+浸着		jin4 zhe5
+献		xian4
+献给		xian4 gei3
+献上		xian4 shang4
+药		yao4
+鼠药		shu3 yao4
+药店		yao4 dian4
+材		cai2
+身材		shen1 cai2
+材料		cai2 liao4
+软		ruan3
+发软		fa1 ruan3
+软床		ruan3 chuang2
+刮		gua1
+刮起		gua1 qi3
+刮过		gua1 guo4
+舌		she2
+舌头		she2 tou5
+七嘴八舌		qi1 zui3 ba1 she2
+矛		mao2
+长矛		chang2 mao2
+矛头		mao2 tou2
+盾		dun4
+矛盾		mao2 dun4
+解决矛盾		jie3 jue2 mao2 dun4
+集		ji2
+收集		shou1 ji2
+集中		ji2 zhong1
+持		chi2
+保持		bao3 chi2
+坚持		jian1 chi2
+般		ban1
+一般		yi4 ban1
+般的		ban1 de5
+架		jia4
+一架		yi1 jia4
+两架		liang3 jia4
+龟		gui1
+乌龟		wu1 gui1
+金龟子		jin1 gui1 zi3
+攻		gong1
+进攻		jin4 gong1
+攻击		gong1 ji1
+坦		tan3
+坦克		tan3 ke4
+坦克兵		tan3 ke4 bing1
+挖		wa1
+挖沟		wa1 gou1
+挖苦		wa1 ku3
+鞋		xie2
+鞋子		xie2 zi5
+红鞋		hong2 xie2
+斧		fu3
+斧子		fu3 zi5
+斧头		fu3 tou2
+锯		ju4
+锯子		ju4 zi5
+锯鱼		ju4 yu2
+抢		qiang3
+抢救		qiang3 jiu4
+抢先		qiang3 xian1
+初		chu1
+最初		zui4 chu1
+当初		dang1 chu1
+管		guan3
+尽管		jin3 guan3
+不管		bu4 guan3
+敌		di2
+敌人		di2 ren2
+敌机		di2 ji1
+阶		jie1
+台阶		tai2 jie1
+石阶		shi2 jie1
+懂		dong3
+懂得		dong3 de5
+听懂		ting1 dong3
+陶		tao2
+陶器		tao2 qi4
+陶工		tao2 gong1
+谦		qian1
+谦让		qian1 rang4
+谦和		qian1 he2
+虚		xu1
+虚荣		xu1 rong2
+谦虚		qian1 xu1
+恼		nao3
+苦恼		ku3 nao3
+恼火		nao3 huo3
+怒		nu4
+激怒		ji1 nu4
+心花怒放		xin1 hua1 nu4 fang4
+吵		chao3
+吵醒		chao3 xing3
+争吵		zheng1 chao3
+感		gan3
+感到		gan3 dao4
+感觉		gan3 jue2
+荒		huang1
+荒原		huang1 yuan2
+荒地		huang1 di4
+捧		peng3
+吹捧		chui1 peng3
+捧得		peng3 de2
+朴		pu3
+简朴		jian3 piao2
+朴质		pu3 zhi4
+素		su4
+素质		su4 zhi4
+因素		yin1 su4
+值		zhi2
+值得		zhi2 de5
+价值		jia4 zhi2
+愿		yuan4
+愿意		yuan4 yi4
+不愿		bu4 yuan4
+姿		zi1
+姿式		zi1 shi4
+姿色		zi1 se4
+势		shi4
+姿势		zi1 shi4
+优势		you1 shi4
+投		tou2
+投降		tou2 xiang2
+投入		tou2 ru4
+况		kuang4
+情况		qing2 kuang4
+何况		he2 kuang4
+吞		tun1
+吞进		tun1 jin4
+吞并		tun1 bing4
+烈		lie4
+强烈		qiang2 lie4
+热烈		re4 lie4
+述		shu4
+讲述		jiang3 shu4
+记述		ji4 shu4
+普		pu3
+普遍		pu3 bian4
+阳光普照		yang2 guang1 pu3 zhao4
+通		tong1
+通过		tong1 guo4
+普通		pu3 tong1
+鼓		gu3
+鼓手		gu3 shou3
+鼓掌		gu3 zhang3
+励		li4
+奖励		jiang3 li4
+鼓励		gu3 li4
+育		yu4
+体育老师		ti3 yu4 lao3 shi1
+教育		jiao4 yu4
+瓶		ping2
+瓶子		ping2 zi5
+一瓶		yi1 ping2
+系		xi4
+关系		guan1 xi4
+没关系		mei2 guan1 xi4
+绳		sheng2
+绳子		sheng2 zi5
+草绳		cao3 sheng2
+茶		cha2
+茶杯		cha2 bei1
+茶具		cha2 ju4
+危		wei1
+危害		wei1 hai4
+危机		wei1 ji1
+险		xian3
+危险		wei1 xian3
+冒险		mao4 xian3
+顺		shun4
+顺着		shun4 zhe5
+顺利		shun4 li4
+俩		liang3
+他俩		ta1 lia3
+姐妹俩		jie3 mei4 lia3
+索		suo3
+思索		si1 suo3
+绳索		sheng2 suo3
+堵		du3
+堵车		du3 che1
+堵住		du3 zhu4
+获		huo4
+获得		huo4 de2
+收获		shou1 huo4
+予		yu3
+给予		ji3 yu3
+授予		shou4 yu3
+担		dan1
+担心		dan1 xin1
+负担		fu4 dan1
+宽		kuan1
+宽大		kuan1 da4
+宽阔		kuan1 kuo4
+裕		yu4
+富裕		fu4 yu4
+优裕		you1 yu4
+买		mai3
+买来		mai3 lai2
+买卖		mai3 mai4
+猜		cai1
+阿猜		a1 cai1
+猜想		cai1 xiang3
+糖		tang2
+糖力		tang2 li4
+糖果		tang2 guo3
+即		ji2
+立即		li4 ji2
+即使		ji2 shi3
+卡		ka3
+贺卡		he4 ka3
+卡拉		ka3 la1
+盼		pan4
+盼望		pan4 wang4
+盼到		pan4 dao4
+仁		ren2
+果仁		guo3 ren2
+仁兄		ren2 xiong1
+聚		ju4
+聚集		ju4 ji2
+聚精会神		ju4 jing1 hui4 shen2
+增		zeng1
+增加		zeng1 jia1
+增长		zeng1 zhang3
+掠		lve3
+掠过		lve4 guo4
+掠夺		lve4 duo2
+稻		dao4
+稻草		dao4 cao3
+稻草人		dao4 cao3 ren2
+偶		ou3
+木偶		mu4 ou3
+玩偶		wan2 ou3
+沾		zhan1
+沾满		zhan1 man3
+沾沾自喜		zhan1 zhan1 zi4 xi3
+漾		yang4
+荡漾		dang4 yang4
+倦		juan4
+困倦		kun4 juan4
+厌倦		yan4 juan4
+符		fu2
+音符		yin1 fu2
+符合		fu2 he2
+演		yan3
+表演		biao3 yan3
+导演		dao3 yan3
+赞		zan4
+赞美诗		zan4 mei3 shi1
+赞美		zan4 mei3
+咏		yong3
+咏唱		yong3 chang4
+呼咏猫		hu1 yong3 mao1
+碧		bi4
+碧水		bi4 shui3
+碧绿		bi4 lv4
+妆		zhuang1
+化妆		hua4 zhuang1
+化妆品		hua4 zhuang1 pin3
+裁		cai2
+裁缝		cai2 feng2
+独裁者		du2 cai2 zhe3
+剪		jian3
+剪刀		jian3 dao1
+剪断		jian3 duan4
+滨		bin1
+海滨		hai3 bin1
+湖滨		hu2 bin1
+紫		zi3
+紫色		zi3 se4
+紫丁香		zi3 ding1 xiang1
+挨		ai2
+挨着		ai1 zhe5
+挨饿		ai2 e4
+莲		lian2
+睡莲		shui4 lian2
+莲花		lian2 hua1
+蓬		peng2
+蓬松		peng2 song1
+乱蓬蓬		luan4 peng2 peng2
+账		zhang4
+账号		zhang4 hao4
+算账		suan4 zhang4
+仿		fang3
+仿造		fang3 zao4
+相仿		xiang1 fang3
+佛		fo2
+仿佛		fang3 fu2
+佛列		fu2 lie4
+裳		shang5
+衣裳		yi1 shang5
+花衣裳		hua1 yi1 shang5
+翩		pian1
+翩翩少年		pian1 pian1 shao4 nian2
+翩翩少年		pian1 pian1 shao4 nian2
+蹈		dao3
+舞蹈		wu3 dao3
+手舞足蹈		shou3 wu3 zu2 dao3
+蜻		qing1
+蜓		ting2
+蜻蜓		qing1 ting2
+小蜻蜓		xiao3 qing1 ting2
+翠		cui4
+青翠		qing1 cui4
+翠绿		cui4 lv4
+秆		gan3
+草秆		cao3 gan3
+高秆		gao1 gan3
+腹		fu4
+腹中		fu4 zhong1
+小腹		xiao3 fu4
+赤		chi4
+赤金		chi4 jin1
+赤脚		chi4 jiao3
+衬		chen4
+衬衣		chen4 yi1
+衬托		chen4 tuo1
+衫		shan1
+衬衫		chen4 shan1
+汗衫		han4 shan1
+泛		fan4
+泛出		fan4 chu1
+泛起		fan4 qi3
+泡		pao4
+水泡		shui3 pao4
+浸泡		jin4 pao4
+饲		si4
+饲养员		si4 yang3 yuan2
+饲料		si4 liao4
+翁		weng1
+富翁		fu4 weng1
+百万富翁		bai3 wan4 fu4 weng1
+陡		dou3
+陡增		dou3 zeng1
+陡坡		dou3 po1
+壁		bi4
+壁炉		bi4 lu2
+石壁		shi2 bi4
+欧		ou1
+北欧		bei3 ou1
+南欧		nan2 ou1
+洲		zhou1
+欧洲		ou1 zhou1
+洲际导弹		zhou1 ji4 dao3 dan4
+瑞		rui4
+瑞士		rui4 shi4
+瑞得		rui4 de2
+舒		shu1
+舒克		shu1 ke4
+舒克说		shu1 ke4 shuo1
+启		qi3
+启动		qi3 dong4
+开启		kai1 qi3
+殊		shu1
+特殊		te4 shu1
+殊荣		shu1 rong2
+骤		zhou4
+骤起		zhou4 qi3
+步骤		bu4 zhou4
+涉		she4
+干涉		gan1 she4
+交涉		jiao1 she4
+疲		pi2
+疲倦		pi2 juan4
+疲劳		pi2 lao2
+政		zheng4
+政府		zheng4 fu3
+市政府		shi4 zheng4 fu3
+踏		ta4
+踏上		ta4 shang4
+踏板		ta4 ban3
+载		zai3
+记载		ji4 zai3
+满载		man3 zai4
+郁		yu4
+郁金香		yu4 jin1 xiang1
+深郁		shen1 yu4
+葱		cong1
+葱绿		cong1 lv4
+青葱		qing1 cong1
+湛		zhan4
+精湛		jing1 zhan4
+湛蓝		zhan4 lan2
+犁		li2
+犁头		li2 tou2
+犁地		li2 de5
+砍		kan3
+砍掉		kan3 diao4
+砍柴		kan3 chai2
+裸		luo3
+赤裸裸		chi4 luo3 luo3
+赤裸裸		chi4 luo3 luo3
+扩		kuo4
+扩大		kuo4 da4
+扩建		kuo4 jian4
+栋		dong4
+一栋		yi1 dong4
+这栋		zhe4 dong4
+喘		chuan3
+喘气		chuan3 qi4
+喘息		chuan3 xi1
+黎		li2
+巴黎		ba1 li2
+黎明		li2 ming2
+寓		yu4
+寓言		yu4 yan2
+寓意		yu4 yi4
+则		ze2
+原则		yuan2 ze2
+一则		yi1 ze2
+窟		ku1
+贫民窟		pin2 min2 ku1
+窿		long2
+窟窿		ku1 long2
+街		jie1
+街上		jie1 shang4
+大街		da4 jie1
+劝		quan4
+劝阻		quan4 zu3
+劝告		quan4 gao4
+悔		hui3
+后悔		hou4 hui3
+痛悔		tong4 hui3
+缠		chan5
+缠住		chan2 zhu4
+缠绕		chan2 rao4
+硬		ying4
+坚硬		jian1 ying4
+硬是		ying4 shi4
+弓		gong1
+弹弓		dan4 gong1
+弓箭		gong1 jian4
+魏		wei4
+魏则尔		wei4 ze2 er3
+魏得尔		wei4 de2 er3
+射		she4
+射击		she4 ji1
+发射		fa1 she4
+猎		lie4
+猎人		lie4 ren2
+打猎		da3 lie4
+雁		yan4
+雁儿		yan4 er2
+公雁		gong1 yan4
+弦		xian2
+琴弦		qin2 xian2
+弦乐器		xian2 yue4 qi4
+悲		bei1
+悲伤		bei1 shang1
+悲痛		bei1 tong4
+惨		can3
+惨白		can3 bai2
+惨叫		can3 jiao4
+愈		yu4
+治愈		zhi4 yu4
+愈发		yu4 fa1
+裂		lie4
+裂开		lie4 kai1
+裂缝		lie4 feng4
+叮		ding1
+叮当		ding1 dang1
+叮叮		ding1 ding1
+嘱		zhu3
+叮嘱		ding1 zhu3
+遗嘱		yi2 zhu3
+排		pai2
+安排		an1 pai2
+一排		yi1 pai2
+靠		kao4
+靠近		kao4 jin4
+依靠		yi1 kao4
+幅		fu2
+一幅		yi1 fu2
+这幅		zhe4 fu2
+审		shen3
+审查		shen3 cha2
+审视		shen3 shi4
+肃		su4
+严肃		yan2 su4
+肃然起敬		su4 ran2 qi3 jing4
+晌		shang3
+半晌		ban4 shang3
+悦		yue4
+喜悦		xi3 yue4
+悦耳		yue4 er3
+悉		xi1
+熟悉		shu2 xi1
+获悉		huo4 xi1
+诲		hui4
+教诲		jiao4 hui4
+赛		sai4
+比赛		bi3 sai4
+赛尔		sai4 er3
+疼		teng2
+疼得		teng2 de2
+心疼		xin1 teng2
+忧		you1
+忧郁		you1 yu4
+忧伤		you1 shang1
+慰		wei4
+安慰		an1 wei4
+欣慰		xin1 wei4
+梭		suo1
+梭子		suo1 zi5
+穿梭		chuan1 suo1
+虽		sui1
+虽然		sui1 ran2
+虽说		sui1 shuo1
+狂		kuang2
+狂风		kuang2 feng1
+狂叫		kuang2 jiao4
+赢		ying2
+赢得		ying2 de5
+打赢		da3 ying2
+暑		shu3
+放暑假		fang4 shu3 jia4
+暑假		shu3 jia4
+益		yi4
+利益		li4 yi4
+有益		you3 yi4
+穷		qiong2
+穷人		qiong2 ren2
+穷苦		qiong2 ku3
+将		jiang1
+将军		jiang1 jun1
+将来		jiang1 lai2
+若		ruo4
+若有所思		ruo4 you3 suo3 si1
+呆若木鸡		dai1 ruo4 mu4 ji1
+俱		ju4
+与日俱增		yu3 ri4 ju4 zeng1
+声泪俱下		sheng1 lei4 ju4 xia4
+博		bo2
+博士		bo2 shi4
+博学		bo2 xue2
+鸦		ya1
+乌鸦		wu1 ya1
+鸦雀无声		ya1 que4 wu2 sheng1
+截		jie2
+半截		ban4 jie2
+一截		yi1 jie2
+伍		wu3
+队伍		dui4 wu3
+为伍		wei2 wu3
+默		mo4
+沉默		chen2 mo4
+默瑞		mo4 rui4
+局		ju2
+局长		ju2 zhang3
+当局		dang1 ju2
+羡		xian4
+欣羡		xin1 xian4
+慕		mu4
+羡慕		xian4 mu4
+爱慕		ai4 mu4
+禁		jin4
+不禁		bu4 jin1
+禁止		jin4 zhi3
+席		xi2
+主席		zhu3 xi2
+主席台		zhu3 xi2 tai2
+众		zhong4
+观众		guan1 zhong4
+众人		zhong4 ren2
+纠		jiu1
+纠正		jiu1 zheng4
+纠缠		jiu1 chan2
+匠		jiang4
+鞋匠		xie2 jiang4
+铁匠		tie3 jiang4
+替		ti4
+代替		dai4 ti4
+交替		jiao1 ti4
+抄		chao1
+抄起		chao1 qi3
+抄书		chao1 shu1
+墨		mo4
+墨水		mo4 shui3
+墨水瓶		mo4 shui3 ping2
+骂		ma4
+骂人		ma4 ren2
+挨骂		ai2 ma4
+缩		suo1
+缩短		suo1 duan3
+缩小		suo1 xiao3
+承		cheng2
+承认		cheng2 ren4
+继承		ji4 cheng2
+肩		jian1
+肩膀		jian1 bang3
+肩上		jian1 shang4
+扛		kang2
+扛着		kang2 zhe5
+扛起		kang2 qi3
+缘		yuan2
+缘故		yuan2 gu4
+边缘		bian1 yuan2
+愤		fen4
+愤怒		fen4 nu4
+气愤		qi4 fen4
+毕		bi4
+完毕		wan2 bi4
+毕业生		bi4 ye4 sheng1
+戒		jie4
+戒指		jie4 zhi3
+金戒指		jin1 jie4 zhi3
+既		ji4
+既然		ji4 ran2
+既有		ji4 you3
+顾		gu4
+顾不上		gu4 bu4 shang4
+照顾		zhao4 gu4
+迅		xun4
+使人迅		shi3 ren2 xun4
+闻迅		wen2 xun4
+速		su4
+速度		su4 du4
+迅速		xun4 su4
+复		fu4
+重复		chong2 fu4
+报复		bao4 fu4
+恰		qia4
+恰恰		qia4 qia4
+恰恰		qia4 qia4
+犯		fan4
+逃犯		tao2 fan4
+犯人		fan4 ren2
+缓		huan3
+缓缓		huan3 huan3
+缓缓		huan3 huan3
+议		yi4
+提议		ti2 yi4
+建议		jian4 yi4
+达		da2
+安达		an1 da2
+到达		dao4 da2
+稚		zhi4
+幼稚		you4 zhi4
+童稚		tong2 zhi4
+烦		fan2
+烦恼		fan2 nao3
+不耐烦		bu4 nai4 fan2
+享		xiang3
+享受		xiang3 shou4
+享用		xiang3 yong4
+医		yi1
+医生		yi1 sheng1
+医院		yi1 yuan4
+输		shu1
+运输机		yun4 shu1 ji1
+运输		yun4 shu1
+型		xing2
+微型		wei1 xing2
+大型		da4 xing2
+否		fou3
+否则		fou3 ze2
+是否		shi4 fou3
+垫		dian4
+垫子		dian4 zi5
+床垫		chuang2 dian4
+酒		jiu3
+酒杯		jiu3 bei1
+喝酒		he1 jiu3
+掩		yan3
+掩护		yan3 hu4
+掩住		yan3 zhu4
+拳		quan2
+拳头		quan2 tou5
+一拳		yi1 quan2
+制		zhi4
+制造		zhi4 zao4
+制止		zhi4 zhi3
+柔		rou2
+温柔		wen1 rou2
+柔和		rou2 he2
+渴		ke3
+渴望		ke3 wang4
+口渴		kou3 ke3
+罐		guan4
+罐头		guan4 tou5
+罐子		guan4 zi5
+累		lei4
+累得		lei4 de2
+累坏		lei4 huai4
+竟		jing4
+究竟		jiu1 jing4
+毕竟		bi4 jing4
+哀		ai1
+悲哀		bei1 ai1
+哀伤		ai1 shang1
+反		fan3
+反正		fan3 zheng4
+反对		fan3 dui4
+递		di4
+递给		di4 gei3
+递到		di4 dao4
+忍		ren3
+忍受		ren3 shou4
+忍不住		ren3 bu2 zhu4
+凑		cou4
+凑巧		cou4 qiao3
+凑近		cou4 jin4
+咽		yan1
+狼吞虎咽		lang2 tun1 hu3 yan4
+呜咽		wu1 ye4
+唾		tuo4
+唾着		tuo4 zhe5
+唾液		tuo4 ye4
+沫		mo4
+泡沫		pao4 mo4
+唾沫		tuo4 mo4
+涌		yong3
+涌进		yong3 jin4
+涌起		yong3 qi3
+差		cha4
+差点儿		cha4 dian3 er2
+差不多		cha4 bu4 duo1
+抵		di3
+抵达		di3 da2
+抵挡		di3 dang3
+氏		shi4
+姓		xing4
+姓氏		xing4 shi4
+庄		zhuang1
+庄园		zhuang1 yuan2
+庄严		zhuang1 yan2
+稼		jia4
+庄稼		zhuang1 jia4
+庄稼人		zhuang1 jia4 ren2
+兽		shou4
+兽医		shou4 yi1
+野兽		ye3 shou4
+存		cun2
+存在		cun2 zai4
+生存		sheng1 cun2
+繁		fan2
+繁星		fan2 xing1
+繁华		fan2 hua2
+殖		zhi2
+繁殖		fan2 zhi2
+人工繁殖		ren2 gong1 fan2 zhi2
+蔬		shu1
+蔬菜		shu1 cai4
+蔬松		shu1 song1
+麻		ma2
+麻雀		ma2 que4
+麻烦		ma2 fan2
+较		jiao4
+比较		bi3 jiao4
+较量		jiao4 liang4
+杀		sha1
+杀死		sha1 si3
+杀人		sha1 ren2
+预		yu4
+预言		yu4 yan2
+预感		yu4 gan3
+幕		mu4
+夜幕降临		ye4 mu4 jiang4 lin2
+一幕		yi2 mu4
+悬		xuan2
+悬停		xuan2 ting2
+悬在		xuan2 zai4
+曾		ceng2
+曾经		ceng2 jing1
+曾祖父		zeng1 zu3 fu4
+奥		ao4
+奥列		ao4 lie4
+奥运会		ao4 yun4 hui4
+努		nu3
+努力		nu3 li4
+经过努力		jing1 guo4 nu3 li4
+登		deng1
+登上		deng1 shang4
+尔登		er3 deng1
+任		ren4
+任何		ren4 he2
+主任		zhu3 ren4
+撒		sa3
+撒腿		sa1 tui3
+撒腿就跑		sa1 tui3 jiu4 pao3
+藻		zao3
+海藻		hai3 zao3
+旦		dan4
+一旦		yi2 dan4
+撒旦		sa1 dan4
+项		xiang4
+一项		yi1 xiang4
+这项		zhe4 xiang4
+估		gu1
+估计		gu1 ji4
+低估		di1 gu1
+龄		ling2
+年龄		nian2 ling2
+高龄		gao1 ling2
+络		luo4
+口络		kou3 luo4
+经络		jing1 luo4
+箱		xiang1
+箱子		xiang1 zi5
+冰箱		bing1 xiang1
+迫		po4
+迫不及待		po4 bu4 ji2 dai4
+强迫		qiang3 po4
+悟		wu4
+醒悟		xing3 wu4
+孙悟空		sun1 wu4 kong1
+盯		ding1
+盯上		ding1 shang4
+盯住		ding1 zhu4
+唐		tang2
+荒唐		huang1 tang2
+唐楚		tang2 chu3
+警		jing3
+警察		jing3 cha2
+警察局长		jing3 cha2 ju2 zhang3
+眯		mi1
+笑眯眯		xiao4 mi1 mi1
+笑眯眯		xiao4 mi1 mi1
+览		lan3
+博览会		bo2 lan3 hui4
+展览		zhan3 lan3
+敞		chang3
+敞开		chang3 kai1
+宽敞		kuan1 chang3
+寄		ji4
+寄给		ji4 gei3
+寄来		ji4 lai2
+秒		miao3
+一秒钟		yi1 miao3 zhong1
+秒钟		miao3 zhong1
+恋		lian4
+恋人		lian4 ren2
+恋爱		lian4 ai4
+彤		tong2
+红彤彤		hong2 tong1 tong1
+红彤彤		hong2 tong1 tong1
+霞		xia2
+晚霞		wan3 xia2
+霞光		xia2 guang1
+陪		pei2
+陪同		pei2 tong2
+陪伴		pei2 ban4
+趁		chen4
+趁机		chen4 ji1
+趁着		chen4 zhe5
+窄		zhai3
+很窄		hen3 zhai3
+窄小		zhai3 xiao3
+脖		bo2
+脖子		bo2 zi5
+脖领子		bo2 ling3 zi5
+段		duan4
+一段		yi1 duan4
+一段时间		yi1 duan4 shi2 jian1
+漆		qi1
+漆黑		qi1 hei1
+漆黑一片		qi1 hei1 yi1 pian4
+胆		dan3
+胆子		dan3 zi5
+大胆		da4 dan3
+踪		zong1
+失踪		shi1 zong1
+无影无踪		wu2 ying3 wu2 zong1
+镇		zhen4
+镇静		zhen4 jing4
+镇上		zhen4 shang4
+摊		tan1
+摊开		tan1 kai1
+一摊		yi1 tan1
+竖		shu4
+竖起		shu4 qi3
+竖琴		shu4 qin2
+售		shou4
+售票员		shou4 piao4 yuan2
+出售		chu1 shou4
+构		gou4
+机构		ji1 gou4
+构成		gou4 cheng2
+端		duan1
+极端		ji2 duan1
+端庄		duan1 zhuang1
+掏		tao1
+掏出		tao1 chu1
+掏钱		tao1 qian2
+馆		guan3
+馆长		guan3 zhang3
+公馆		gong1 guan3
+辨		bian4
+辨别		bian4 bie2
+分辨		fen1 bian4
+模		mo2
+模样		mu2 yang4
+航模		hang2 mo2
+标		biao1
+目标		mu4 biao1
+标本		biao1 ben3
+齿		chi3
+牙齿		ya2 chi3
+咬牙切齿		yao3 ya2 qie4 chi3
+乞		qi3
+乞求		qi3 qiu2
+乞讨		qi3 tao3
+霄		xiao1
+云霄		yun2 xiao1
+九霄云外		jiu3 xiao1 yun2 wai4
+渡		du4
+渡鸦		du4 ya1
+摆渡		bai3 du4
+屏		ping2
+屏幕		ping2 mu4
+屏住		bing3 zhu4
+烛		zhu2
+烛台		zhu2 tai2
+油烛		you2 zhu2
+晓		xiao3
+晓得		xiao3 de5
+破晓		po4 xiao3
+淹		yan1
+淹死		yan1 si3
+淹没		yan1 mo4
+官		guan1
+法官		fa3 guan1
+官员		guan1 yuan2
+逼		bi1
+逼近		bi1 jin4
+逼过来		bi1 guo4 lai2
+睁		zheng1
+睁开眼睛		zheng1 kai1 yan3 jing1
+睁开		zheng1 kai1
+旱		han4
+旱地		han4 di4
+旱灾		han4 zai1
+徒		tu2
+安徒生		an1 tu2 sheng1
+学徒		xue2 tu2
+腾		teng2
+折腾		zhe1 teng2
+腾空而起		teng2 kong1 er2 qi3
+催		cui1
+催促		cui1 cu4
+催人		cui1 ren2
+跪		gui4
+跪下		gui4 xia4
+跪过		gui4 guo4
+渠		qu2
+沟渠		gou1 qu2
+各种渠道		ge4 zhong3 qu2 dao4
+灌		guan4
+灌木丛		guan4 mu4 cong2
+灌木林		guan4 mu4 lin2
+隆		long2
+隆重		long2 zhong4
+隆隆		long2 long2
+塌		ta1
+倒塌		dao3 ta1
+死心塌地		si3 xin1 ta1 di4
+露		lu4
+露出		lu4 chu1
+露珠		lu4 zhu1
+燃		ran2
+点燃		dian3 ran2
+燃烧		ran2 shao1
+挣		zheng4
+挣扎		zheng1 zha2
+挣脱		zheng4 tuo1
+熄		xi1
+熄灭		xi1 mie4
+吹熄		chui1 xi1
+喷		pen1
+喷出		pen1 chu1
+喷泉		pen1 quan2
+缺		que1
+缺点		que1 dian3
+缺少		que1 shao3
+纯		chun2
+纯洁		chun2 jie2
+纯金		chun2 jin1
+炼		lian4
+炼金		lian4 jin1
+提炼		ti2 lian4
+盆		pen2
+花盆里		hua1 pen2 li3
+花盆		hua1 pen2
+潮		chao2
+潮湿		chao2 shi1
+潮水般		chao2 shui3 ban1
+称		cheng1
+称赞		cheng1 zan4
+称为		cheng1 wei2
+盐		yan2
+吃盐		chi1 yan2
+盐池		yan2 chi2
+笼		long2
+笼子		long2 zi5
+鸟笼		niao3 long2
+罩		zhao4
+笼罩		long3 zhao4
+笼罩着		long3 zhao4 zhe5
+蒙		meng2
+蒙住		meng2 zhu4
+蒙特		meng2 te4
+薄		bao2
+薄薄的		bao2 bao2 de5
+薄薄的		bao2 bao2 de5
+雾		wu4
+烟雾		yan1 wu4
+云雾		yun2 wu4
+昂		ang2
+索昂		suo3 ang2
+昂贵		ang2 gui4
+沸		fei4
+沸腾		fei4 teng2
+沸水		fei4 shui3
+贯		guan4
+全神贯注		quan2 shen2 guan4 zhu4
+一贯		yi2 guan4
+旧		jiu4
+仍旧		reng2 jiu4
+旧约		jiu4 yue1
+恢		hui1
+恢复		hui1 fu4
+恢复过来		hui1 fu4 guo4 lai2
+灿		can4
+黄灿灿		huang2 can4 can4
+黄灿灿		huang2 can4 can4
+烂		lan4
+破烂		po4 lan4
+灿烂		can4 lan4
+茫		mang2
+茫茫		mang2 mang2
+茫茫		mang2 mang2
+桨		jiang3
+船桨		chuan2 jiang3
+划桨		hua2 jiang3
+规		gui1
+规定		gui1 ding4
+大规模		da4 gui1 mo2
+律		lv4
+法律		fa3 lv4
+律师		lv4 shi1
+株		zhu1
+一株		yi1 zhu1
+这株		zhe4 zhu1
+隙		xi4
+隙缝		xi4 feng4
+空隙		kong4 xi4
+耀		yao4
+耀眼		yao4 yan3
+闪耀着		shan3 yao4 zhe5
+梢		shao1
+树梢		shu4 shao1
+喜上眉梢		xi3 shang4 mei2 shao1
+寂		ji4
+寂静		ji4 jing4
+静寂		jing4 ji4
+莫		mo4
+莫达		mo4 da2
+莫腾		mo4 teng2
+腊		la4
+希腊神话		xi1 la4 shen2 hua4
+希腊		xi1 la4
+浑		hun2
+浑身		hun2 shen1
+浑身上下		hun2 shen1 shang4 xia4
+疑		yi2
+无疑		wu2 yi2
+半信半疑		ban4 xin4 ban4 yi2
+占		zhan4
+占领		zhan4 ling3
+占有		zhan4 you3
+铺		pu1
+上铺		shang4 pu4
+店铺		dian4 pu4
+均		jun1
+平均		ping2 jun1
+人均		ren2 jun1
+匀		yun2
+匀称		yun2 chen4
+均匀		jun1 yun2
+叠		die2
+折叠		zhe2 die2
+重叠		chong2 die2
+茎		jing1
+豆茎		dou4 jing1
+球茎		qiu2 jing1
+触		chu4
+接触		jie1 chu4
+深有感触		shen1 you3 gan3 chu4
+痕		hen2
+痕迹		hen2 ji1
+伤痕		shang1 hen2
+逐		zhu2
+追逐		zhui1 zhu2
+逐渐		zhu2 jian4
+宅		zhai2
+住宅		zhu4 zhai2
+住宅区		zhu4 zhai2 qu1
+蔽		bi4
+隐蔽		yin3 bi4
+蔽身		bi4 shen1
+弃		qi4
+放弃		fang4 qi4
+弃儿		qi4 er2
+毫		hao2
+丝毫		si1 hao2
+毫子		hao2 zi5
+遇		yu4
+遇到		yu4 dao4
+遇见		yu4 jian4
+择		ze2
+选择		xuan3 ze2
+别无选择		bie2 wu2 xuan3 ze2
+址		zhi3
+地址		di4 zhi3
+住址		zhu4 zhi3
+穴		xue2
+洞穴		dong4 xue2
+太阳穴		tai4 yang2 xue2
+掘		jue2
+挖掘		wa1 jue2
+发掘		fa1 jue2
+搜		sou1
+搜集		sou1 ji2
+搜寻		sou1 xun2
+倾		qing1
+倾听		qing1 ting1
+倾斜		qing1 xie2
+扒		ba1
+扒开		ba1 kai1
+扒土		ba1 tu3
+抛		pao1
+抛弃		pao1 qi4
+抛向		pao1 xiang4
+溢		yi4
+溢出		yi4 chu1
+洋溢着		yang2 yi4 zhe5
+允		yun3
+允许		yun3 xu3
+应允		ying1 yun3
+墙		qiang2
+墙上		qiang2 shang4
+墙壁		qiang2 bi4
+牌		pai2
+招牌		zhao1 pai2
+牌子		pai2 zi5
+添		tian1
+增添		zeng1 tian1
+添麻烦		tian1 ma2 fan2
+训		xun4
+教训		jiao4 xun4
+训练		xun4 lian4
+覆		fu4
+覆盖		fu4 gai4
+翻来覆去		fan1 lai2 fu4 qu4
+凝		ning2
+凝望		ning2 wang4
+凝视着		ning2 shi4 zhe5
+辣		la4
+火辣辣		huo3 la4 la4
+火辣辣		huo3 la4 la4
+酷		ku4
+冷酷		leng3 ku4
+酷热		ku4 re4
+愉		yu2
+愉快		yu2 kuai4
+轻松愉快		qing1 song1 yu2 kuai4
+拆		chai1
+拆除		chai1 chu2
+拆掉		chai1 diao4
+融		rong2
+融化		rong2 hua4
+融成		rong2 cheng2
+伐		fa2
+伐木		fa2 mu4
+巴伐利亚		ba1 fa2 li4 ya4
+煤		mei2
+煤气		mei2 qi4
+煤气灯		mei2 qi4 deng1
+郑		zheng4
+郑重		zheng4 zhong4
+郑成功		zheng4 cheng2 gong1
+厉		li4
+厉害		li4 hai4
+严厉		yan2 li4
+剧		ju4
+剧本		ju4 ben3
+悲剧		bei1 ju4
+餐		can1
+餐桌		can1 zhuo1
+晚餐		wan3 can1
+饮		yin3
+饮料		yin3 liao4
+冷饮店		leng3 yin3 dian4
+侍		shi4
+内侍		nei4 shi4
+侍从		shi4 cong2
+脾		pi2
+脾气		pi2 qi4
+发脾气		fa1 pi2 qi4
+蹲		dun1
+蹲下		dun1 xia4
+蹲下来		dun1 xia4 lai2
+供		gong4
+提供		ti2 gong1
+供给		gong1 ji3
+邻		lin2
+邻居		lin2 ju1
+邻居们		lin2 ju1 men5
+性		xing4
+性命		xing4 ming4
+女性		nv3 xing4
+格		ge2
+性格		xing4 ge2
+格外		ge2 wai4
+凭		ping2
+凭着		ping2 zhe5
+任凭		ren4 ping2
+贪		tan1
+贪心		tan1 xin1
+贪得无厌		tan1 de2 wu2 yan4
+职		zhi2
+职业		zhi2 ye4
+职责		zhi2 ze2
+痒		yang3
+痒痒		yang3 yang3
+痒痒		yang3 yang3
+稿		gao3
+稿子		gao3 zi5
+稿纸		gao3 zhi3
+踩		cai3
+踩得		cai3 de2
+踩死		cai3 si3
+跌		die1
+跌下来		die1 xia4 lai2
+跌成		die1 cheng2
+辟		pi4
+开辟		kai1 pi4
+精辟		jing1 pi4
+崇		chong2
+崇拜		chong2 bai4
+崇敬		chong2 jing4
+旋		xuan2
+旋转		xuan2 zhuan3
+盘旋		pan2 xuan2
+嘉		jia1
+嘉年华会		jia1 nian2 hua2 hui4
+嘉奖		jia1 jiang3
+砖		zhuan1
+砖头		zhuan1 tou2
+碎砖		sui4 zhuan1
+隔		ge2
+隔壁		ge2 bi4
+每隔		mei3 ge2
+堡		bao3
+城堡		cheng2 bao3
+宫堡		gong1 bao3
+垒		lei3
+堡垒		bao3 lei3
+壁垒		bi4 lei3
+扶		fu2
+自动扶梯		zi4 dong4 fu2 ti1
+扶梯		fu2 ti1
+智		zhi4
+理智		li3 zhi4
+智力		zhi4 li4
+慧		hui4
+智慧		zhi4 hui4
+聪慧		cong1 hui4
+魄		po4
+惊心动魄		jing1 xin1 dong4 po4
+气魄		qi4 po4
+殿		dian4
+宫殿		gong1 dian4
+大殿		da4 dian4
+廊		lang2
+走廊		zou3 lang2
+长廊		chang2 lang2
+柱		zhu4
+柱子		zhu4 zi5
+圆柱		yuan2 zhu4
+栽		zai1
+倒栽葱		dao3 zai1 cong1
+栽到		zai1 dao4
+筑		zhu4
+建筑		jian4 zhu4
+建筑师		jian4 zhu4 shi1
+阁		ge2
+阁下		ge2 xia4
+阁楼		ge2 lou2
+朱		zhu1
+朱丽叶		zhu1 li4 ye4
+朱力		zhu1 li4
+堤		di1
+堤岸		di1 an4
+海堤		hai3 di1
+雕		diao1
+雕刻		diao1 ke4
+雕像		diao1 xiang4
+态		tai4
+状态		zhuang4 tai4
+态度		tai4 du4
+孟		meng4
+孟说		meng4 shuo1
+孟是		meng4 shi4
+浩		hao4
+浩浩荡荡		hao4 hao4 dang4 dang4
+浩浩荡荡		hao4 hao4 dang4 dang4
+陵		ling2
+格陵兰		ge2 ling2 lan2
+丘陵		qiu1 ling2
+辞		ci2
+告辞		gao4 ci2
+辞职		ci2 zhi2
+唯		wei2
+唯一		wei2 yi1
+唯独		wei2 du2
+舍		she3
+舍不得		she3 bu4 de2
+农舍		nong2 she4
+君		jun1
+君主		jun1 zhu3
+君王		jun1 wang2
+洪		hong2
+洪水		hong2 shui3
+洪亮		hong2 liang4
+暴		bao4
+风暴		feng1 bao4
+暴风雨		bao4 feng1 yu3
+猛		meng3
+猛地		meng3 de5
+猛然		meng3 ran2
+涨		zhang3
+上涨		shang4 zhang3
+高涨		gao1 zhang3
+稳		wen3
+平稳		ping2 wen3
+稳住		wen3 zhu4
+俗		su2
+习俗		xi2 su2
+俗话		su2 hua4
+衡		heng2
+生态平衡		sheng1 tai4 ping2 heng2
+平衡		ping2 heng2
+序		xu4
+顺序		shun4 xu4
+次序		ci4 xu4
+伏		fu2
+埋伏		mai2 fu2
+起伏		qi3 fu2
+峡		xia2
+海峡		hai3 xia2
+峡谷		xia2 gu3
+桂		gui4
+月桂树		yue4 gui4 shu4
+装桂		zhuang1 gui4
+移		yi2
+移动		yi2 dong4
+移植		yi2 zhi2
+湾		wan1
+海湾		hai3 wan1
+海湾战争		hai3 wan1 zhan4 zheng1
+彼		bi3
+彼得		bi3 de2
+彼此		bi3 ci3
+袭		xi2
+袭击		xi2 ji1
+空袭		kong1 xi2
+余		yu2
+其余		qi2 yu2
+多余		duo1 yu2
+怀		huai2
+怀疑		huai2 yi2
+怀里		huai2 li3
+旷		kuang4
+旷野		kuang4 ye3
+空旷		kong1 kuang4
+暂		zan4
+暂时		zan4 shi2
+短暂		duan3 zan4
+胞		bao1
+同胞		tong2 bao1
+同胞们		tong2 bao1 men5
+脉		mai4
+来龙去脉		lai2 long2 qu4 mai4
+山脉		shan1 mai4
+帝		di4
+上帝		shang4 di4
+感谢上帝		gan3 xie4 shang4 di4
+义		yi4
+意义		yi4 yi4
+正义		zheng4 yi4
+租		zu1
+出租车		chu1 zu1 che1
+租用		zu1 yong4
+振		zhen4
+振动		zhen4 dong4
+振兴		zhen4 xing1
+范		fan4
+范围		fan4 wei2
+示范		shi4 fan4
+闯		chuang3
+闯荡		chuang3 dang4
+闯进		chuang3 jin4
+凡		fan2
+凡是		fan2 shi4
+平凡		ping2 fan2
+巡		xun2
+巡夜		xun2 ye4
+巡视		xun2 shi4
+嚷		rang3
+嚷嚷		rang1 rang5
+嚷嚷		rang1 rang5
+妇		fu4
+妇人		fu4 ren2
+夫妇		fu1 fu4
+惩		cheng2
+惩治		cheng2 zhi4
+惩办		cheng2 ban4
+篇		pian1
+这篇		zhe4 pian1
+一篇		yi1 pian1
+荐		jian4
+推荐		tui1 jian4
+举荐		ju3 jian4
+帘		lian2
+窗帘		chuang1 lian2
+帘子		lian2 zi5
+删		shan1
+删节		shan1 jie2
+词		ci2
+名词		ming2 ci2
+词汇		ci2 hui4
+燥		zao4
+干燥		gan1 zao4
+枯燥		ku1 zao4
+握		wo4
+掌握		zhang3 wo4
+握手		wo4 shou3
+洽		qia4
+洽谈		qia4 tan2
+融洽		rong2 qia4
+昏		hun1
+黄昏		huang2 hun1
+昏过去		hun1 guo4 qu4
+厅		ting1
+大厅		da4 ting1
+客厅		ke4 ting1
+糊		hu2
+迷迷糊糊		mi2 mi5 hu1 hu1
+迷迷糊糊		mi2 mi5 hu1 hu1
+改		gai3
+改变		gai3 bian4
+改为		gai3 wei2
+程		cheng2
+程度		cheng2 du4
+过程		guo4 cheng2
+赖		lai4
+无赖		wu2 lai4
+信赖		xin4 lai4
+耕		geng1
+耕地		geng1 di4
+耕完		geng1 wan2
+驾		jia4
+驾车		jia4 che1
+驾机		jia4 ji1
+幻		huan4
+幻影		huan4 ying3
+幻想		huan4 xiang3
+核		he2
+核武器		he2 wu3 qi4
+核弹头		he2 dan4 tou2
+控		kong4
+控制		kong4 zhi4
+遥控		yao2 kong4
+联		lian2
+联系		lian2 xi4
+联合国		lian2 he2 guo2
+哲		zhe2
+哲学		zhe2 xue2
+哲学家		zhe2 xue2 jia1
+归		gui1
+归来		gui1 lai2
+无家可归		wu2 jia1 ke3 gui1
+凶		xiong1
+凶猛		xiong1 meng3
+凶手		xiong1 shou3
+鸽		ge1
+鸽子		ge1 zi5
+白鸽		bai2 ge1
+仅		jin3
+不仅		bu4 jin3
+仅仅		jin3 jin3
+顿		dun4
+一顿		yi1 dun4
+顿时		dun4 shi2
+描		miao2
+描写		miao2 xie3
+描述		miao2 shu4
+绘		hui4
+绘画		hui4 hua4
+绘声绘色		hui4 sheng1 hui4 se4
+吨		dun1
+一吨		yi1 dun1
+几吨		ji3 dun1
+盈		ying2
+轻盈		qing1 ying2
+笑盈盈		xiao4 ying2 ying2
+敏		min3
+灵敏		ling2 min3
+过敏		guo4 min3
+捷		jie2
+敏捷地		min3 jie2 de5
+敏捷		min3 jie2
+崭		zhan3
+崭新		zhan3 xin1
+新崭崭		xin1 zhan3 zhan3
+庭		ting2
+家庭		jia1 ting2
+法庭		fa3 ting2
+潭		tan2
+水潭		shui3 tan2
+一潭死水		yi1 tan2 si3 shui3
+螺		luo2
+螺旋桨		luo2 xuan2 jiang3
+螺旋		luo2 xuan2
+谙		an1
+谙熟		an1 shu2
+深谙		shen1 an1
+瑕		xia2
+无瑕		wu2 xia2
+攀		pan1
+攀不上		pan1 bu4 shang4
+攀登		pan1 deng1
+峦		luan2
+山峦		shan1 luan2
+峰峦起伏		feng1 luan2 qi3 fu2
+泰		tai4
+泰然自若		tai4 ran2 zi4 ruo4
+稳如泰山		wen3 ru2 tai4 shan1
+骆		luo4
+驼		tuo2
+骆驼		luo4 tuo2
+单峰骆驼		dan1 feng1 luo4 tuo2
+罗		luo2
+罗丘		luo2 qiu1
+罗马		luo2 ma3
+障		zhang4
+故障		gu4 zhang4
+保障		bao3 zhang4
+兀		wu4
+兀立		wu4 li4
+兀出		wu4 chu1
+绵		mian2
+绵羊		mian2 yang2
+软绵绵		ruan3 mian2 mian2
+浙		zhe4
+浙江		zhe4 jiang1
+桐		tong2
+梧		wu2
+梧桐树		wu2 tong2 shu4
+簇		cu4
+一簇		yi1 cu4
+簇拥着		cu4 yong1 zhe5
+浓		nong2
+浓密		nong2 mi4
+浓烟		nong2 yan1
+稍		shao1
+稍微		shao1 wei1
+稍稍		shao1 shao1
+额		e2
+额头		e2 tou2
+前额		qian2 e2
+擦		ca1
+擦干		ca1 gan4
+擦汗		ca1 han4
+蜿		wan1
+蜒		yan2
+蜿蜒		wan1 yan2
+乳		ru3
+乳白色		ru3 bai2 se4
+乳饼		ru3 bing3
+据		ju4
+根据		gen1 ju4
+据说		ju4 shuo1
+源		yuan2
+源泉		yuan2 quan2
+能源		neng2 yuan2
+维		wei2
+维护		wei2 hu4
+维持		wei2 chi2
+财		cai2
+财产		cai2 chan3
+财富		cai2 fu4
+属		shu3
+属于		shu3 yu2
+下属		xia4 shu3
+货		huo4
+杂货店		za2 huo4 dian4
+假货		jia3 huo4
+驰		chi2
+奔驰		ben1 chi2
+飞驰		fei1 chi2
+赠		zeng4
+赠给		zeng4 gei3
+赠送		zeng4 song4
+驶		shi3
+驾驶		jia4 shi3
+驾驶室		jia4 shi3 shi4
+德		de2
+巴贝德		ba1 bei4 de2
+德国		de2 guo2
+惑		huo4
+迷惑		mi2 huo4
+大惑不解		da4 huo4 bu4 jie3
+码		ma3
+起码		qi3 ma3
+电话号码		dian4 hua4 hao4 ma3
+库		ku4
+库房		ku4 fang2
+宝库		bao3 ku4
+捎		shao1
+捎去		shao1 qu4
+捎信		shao1 xin4
+橡		xiang4
+橡树		xiang4 shu4
+橡皮		xiang4 pi2
+尊		zun1
+尊敬		zun1 jing4
+尊重		zun1 zhong4
+沃		wo4
+肥沃		fei2 wo4
+西沃		xi1 wo4
+呈		cheng2
+呈现		cheng2 xian4
+呈现出		cheng2 xian4 chu1
+惫		bei4
+疲惫		pi2 bei4
+堪		kan1
+不堪		bu4 kan1
+不堪设想		bu4 kan1 she4 xiang3
+善		shan4
+善良		shan4 liang2
+和善		he2 shan4
+款		kuan3
+存款		cun2 kuan3
+款待		kuan3 dai4
+例		li4
+例外		li4 wai4
+例如		li4 ru2
+瘦		shou4
+瘦子		shou4 zi5
+瘦长		shou4 chang2
+杰		jie2
+杰出		jie2 chu1
+杰作		jie2 zuo4
+喉		hou2
+歌喉		ge1 hou2
+咽喉		yan1 hou2
+捶		chui2
+捶胸顿足		chui2 xiong1 dun4 zu2
+捶胸		chui2 xiong1
+僵		jiang1
+僵硬		jiang1 ying4
+僵直		jiang1 zhi2
+配		pei4
+不配		bu4 pei4
+分配		fen1 pei4
+滩		tan1
+海滩		hai3 tan1
+沙滩		sha1 tan1
+侦		zhen1
+侦察		zhen1 cha2
+侦探		zhen1 tan4
+嘲		chao2
+嘲笑		chao2 xiao4
+嘲弄		chao2 nong4
+愚		yu2
+愚弄		yu2 nong4
+愚人节		yu2 ren2 jie2
+蠢		chun3
+愚蠢		yu2 chun3
+蠢货		chun3 huo4
+返		fan3
+返回		fan3 hui2
+返航		fan3 hang2
+吁		xu1
+气喘吁吁		qi4 chuan3 xu1 xu1
+气喘吁吁		qi4 chuan3 xu1 xu1
+拦		lan2
+拦住		lan2 zhu4
+拦截		lan2 jie2
+鸥		ou1
+海鸥		hai3 ou1
+彻		che4
+彻底		che4 di3
+透彻		tou4 che4
+蝠		fu2
+蝙		bian1
+蝙蝠		bian1 fu2
+捕		bu3
+追捕		zhui1 bu3
+被捕		bei4 bu3
+蛾		e2
+蛾眉		e2 mei2
+飞蛾		fei1 e2
+蚊		wen2
+蚊子		wen2 zi5
+小蚊		xiao3 wen2
+避		bi4
+躲避		duo3 bi4
+避开		bi4 kai1
+锐		rui4
+尖锐		jian1 rui4
+锐利		rui4 li4
+铛		dang1
+铃铛		ling2 dang5
+铁铛里		tie3 dang1 li3
+蝇		ying2
+苍蝇		cang1 ying2
+蝇子		ying2 zi5
+揭		jie1
+揭开		jie1 kai1
+揭露		jie1 lu4
+碍		ai4
+障碍		zhang4 ai4
+碍事		ai4 shi4
+荧		ying2
+荧光屏		ying2 guang1 ping2
+荧屏		ying2 ping2
+削		xue1
+削铅笔		xiao1 qian1 bi3
+瘦削		shou4 xue1
+喂		wei4
+喂奶		wei4 nai3
+喂养		wei4 yang3
+哨		shao4
+口哨		kou3 shao4
+吹口哨		chui1 kou3 shao4
+挺		ting3
+挺直		ting3 zhi2
+挺不错		ting3 bu4 cuo4
+斯		si1
+拉斯		la1 si1
+克里斯		ke4 li3 si1
+踢		ti1
+踢球		ti1 qiu2
+脚踢		jiao3 ti1
+防		fang2
+消防车		xiao1 fang2 che1
+防止		fang2 zhi3
+汉		han4
+汉斯		han4 si1
+张老汉		zhang1 lao3 han4
+滚		gun3
+滚开		gun3 kai1
+翻滚		fan1 gun3
+毁		hui3
+毁灭		hui3 mie4
+毁掉		hui3 diao4
+惯		guan4
+习惯		xi2 guan4
+习惯于		xi2 guan4 yu2
+牺		xi1
+牲		sheng1
+牺牲		xi1 sheng1
+牺牲者		xi1 sheng1 zhe3
+凯		kai3
+凯恩		kai3 en1
+凯旋		kai3 xuan2
+征		zheng1
+征服		zheng1 fu2
+象征		xiang4 zheng1
+姨		yi2
+姨妈		yi2 ma1
+阿姨		a1 yi2
+济		ji4
+经济		jing1 ji4
+无济于事		wu2 ji4 yu2 shi4
+贡		gong4
+贡献		gong4 xian4
+进贡		jin4 gong4
+圣		sheng4
+圣经		sheng4 jing1
+圣彼得		sheng4 bi3 de2
+驻		zhu4
+驻扎		zhu4 zha1
+驻地		zhu4 di4
+罪		zui4
+罪犯		zui4 fan4
+罪过		zui4 guo4
+恶		e4
+罪恶		zui4 e4
+恶龙		e4 long2
+健		jian4
+健壮		jian4 zhuang4
+健全		jian4 quan2
+康		kang1
+健康		jian4 kang1
+恢复健康		hui1 fu4 jian4 kang1
+径		jing4
+径直		jing4 zhi2
+小径		xiao3 jing4
+畅		chang4
+舒畅		shu1 chang4
+心情舒畅		xin1 qing2 shu1 chang4
+磕		ke1
+磕头		ke1 tou2
+磕磕巴巴		ke1 ke1 ba1 ba1
+绊		ban4
+绊住		ban4 zhu4
+绊儿		ban4 er2
+瞬		shun4
+一瞬间		yi1 shun4 jian1
+瞬间		shun4 jian1
+翔		xiang2
+飞翔		fei1 xiang2
+滑翔		hua2 xiang2
+权		quan2
+权威		quan2 wei1
+权利		quan2 li4
+缤		bin1
+五彩缤纷		wu3 cai3 bin1 fen1
+缤纷		bin1 fen1
+扰		rao3
+干扰		gan1 rao3
+打扰		da3 rao3
+欲		yu4
+悲痛欲绝		bei1 tong4 yu4 jue2
+食欲		shi2 yu4
+屈		qu1
+屈服		qu1 fu2
+屈指可数		qu1 zhi3 ke3 shu3
+茁		zhuo2
+茁壮		zhuo2 zhuang4
+茁壮成长		zhuo2 zhuang4 cheng2 zhang3
+诊		zhen3
+诊所		zhen3 suo3
+听诊器		ting1 zhen3 qi4
+撼		han4
+震撼		zhen4 han4
+摇撼		yao2 han4
+蹋		ta4
+糟蹋		zao1 ta4
+限		xian4
+期限		qi1 xian4
+无限		wu2 xian4
+棚		peng2
+棚子		peng2 zi5
+草棚		cao3 peng2
+饰		shi4
+装饰		zhuang1 shi4
+装饰品		zhuang1 shi4 pin3
+冠		guan4
+冠军		guan4 jun1
+王冠		wang2 guan1
+瞧		qiao2
+瞧瞧		qiao2 qiao2
+瞧瞧		qiao2 qiao2
+率		lv4
+率领		shuai4 ling3
+率先		shuai4 xian1
+觅		mi4
+觅工		mi4 gong1
+觅食		mi4 shi2
+耸		song3
+耸耸		song3 song3
+耸耸		song3 song3
+捣		dao3
+捣乱		dao3 luan4
+捣蛋		dao3 dan4
+搬		ban1
+搬进		ban1 jin4
+搬家		ban1 jia1
+巢		chao2
+巢里		chao2 li3
+筑巢		zhu4 chao2
+谐		xie2
+和谐		he2 xie2
+谐音		xie2 yin1
+眠		mian2
+睡眠		shui4 mian2
+安眠药		an1 mian2 yao4
+辛		xin1
+辛苦		xin1 ku3
+辛辛苦苦		xin1 xin1 ku3 ku3
+桑		sang1
+桑第普		sang1 di4 pu3
+桑都斯要		sang1 dou1 si1 yao4
+昼		zhou4
+白昼		bai2 zhou4
+昼夜		zhou4 ye4
+绩		ji4
+成绩		cheng2 ji1
+学习成绩		xue2 xi2 cheng2 ji1
+塞		sai1
+塞进		sai1 jin4
+塞尔		sai1 er3
+鹭		lu4
+苍鹭		cang1 lu4
+略		lve4
+略为		lve4 wei4
+略微		lve4 wei1
+辩		bian4
+辩护		bian4 hu4
+辩解		bian4 jie3
+奉		feng4
+奉命		feng4 ming4
+奉献给		feng4 xian4 gei3
+违		wei2
+违背		wei2 bei4
+违反		wei2 fan3
+磅		bang4
+半磅		ban4 bang4
+吃九磅肉		chi1 jiu3 bang4 rou4
+拴		shuan1
+拴着		shuan1 zhe5
+拴住		shuan1 zhu4
+释		shi4
+解释		jie3 shi4
+释放		shi4 fang4
+宣		xuan1
+宣布		xuan1 bu4
+宣传		xuan1 chuan2
+萨		sa4
+萨拉		sa4 la1
+阿布萨隆		a1 bu4 sa4 long2
+妄		wang4
+轻举妄动		qing1 ju3 wang4 dong4
+狂妄		kuang2 wang4
+执		zhi2
+执行		zhi2 xing2
+执事		zhi2 shi4
+港		gang3
+港口		gang3 kou3
+海港		hai3 gang3
+澈		che4
+清澈		qing1 che4
+清澈见底		qing1 che4 jian4 di3
+壶		hu2
+水壶		shui3 hu2
+茶壶		cha2 hu2
+缸		gang1
+烟灰缸		yan1 hui1 gang1
+玻璃缸		bo1 li5 gang1
+罢		ba4
+罢了		ba4 le5
+也罢		ye3 ba4
+苟		gou3
+一丝不苟		yi1 si1 bu4 gou3
+苟同		gou3 tong2
+绣		xiu4
+绣花		xiu4 hua1
+金线绣		jin1 xian4 xiu4
+挥		hui1
+指挥		zhi3 hui1
+挥手		hui1 shou3
+徽		hui1
+族徽		zu2 hui1
+国徽		guo2 hui1
+聋		long2
+震耳欲聋		zhen4 er3 yu4 long2
+聋子		long2 zi5
+哑		ya3
+哑巴		ya3 ba1
+粗哑		cu1 ya3
+昌		chang1
+昌盛		chang1 sheng4
+妻		qi1
+妻子		qi1 zi3
+为妻		wei4 qi1
+刺		ci4
+刺激		ci4 ji1
+刺骨		ci4 gu3
+绑		bang3
+绑架		bang3 jia4
+绑架者		bang3 jia4 zhe3
+扁		bian3
+扁鱼		bian3 yu2
+扁豆		bian3 dou4
+蔡		cai4
+蔡艺		cai4 yi4
+蔡灵		cai4 ling2
+睬		cai3
+理睬		li3 cai3
+不睬		bu4 cai3
+胃		wei4
+胃口		wei4 kou3
+胃里		wei4 li3
+烫		tang5
+烫伤		tang4 shang1
+滚烫		gun3 tang4
+剂		ji4
+清洁剂		qing1 jie2 ji4
+药剂师		yao4 ji4 shi1
+汤		tang1
+烧汤		shao1 tang1
+汤来		tang1 lai2
+焰		yan4
+火焰		huo3 yan4
+焰火		yan4 huo3
+驱		qu1
+驱使		qu1 shi3
+驱车		qu1 che1
+袖		xiu4
+袖子		xiu4 zi5
+领袖		ling3 xiu4
+败		bai4
+失败		shi1 bai4
+打败		da3 bai4
+罚		fa2
+惩罚		cheng2 fa2
+罚款		fa2 kuan3
+佩		pei4
+佩服		pei4 fu2
+佩带着		pei4 dai4 zhe5
+饶		rao2
+求饶		qiu2 rao2
+饶命		rao2 ming4
+抗		kang4
+抗议		kang4 yi4
+反抗		fan3 kang4
+押		ya1
+关押		guan1 ya1
+抵押		di3 ya1
+锁		suo3
+牛锁		niu2 suo3
+锁孔		suo3 kong3
+狠		hen3
+狠狠		hen3 hen3
+狠狠		hen3 hen3
+膝		xi1
+膝盖		xi1 gai4
+屈膝		qu1 xi1
+肝		gan1
+心肝		xin1 gan1
+肝火		gan1 huo3
+丸		wan2
+肉丸子		rou4 wan2 zi5
+一丸		yi1 wan2
+崖		ya2
+石崖		shi2 ya2
+悬崖		xuan2 ya2
+毡		zhan1
+毡帽		zhan1 mao4
+地毡		di4 zhan1
+卸		xie4
+卸去		xie4 qu4
+卸下来		xie4 xia4 lai2
+嚼		jiao2
+咀		ju3
+咀嚼		ju3 jue2
+漠		mo4
+沙漠		sha1 mo4
+冷漠		leng3 mo4
+寞		mo4
+寂寞		ji4 mo4
+孤独寂寞		gu1 du2 ji4 mo4
+袄		ao3
+皮袄		pi2 ao3
+短袄		duan3 ao3
+袍		pao2
+袍子		pao2 zi5
+长袍		chang2 pao2
+傻		sha3
+傻瓜		sha3 gua1
+傻眼		sha3 yan3
+妮		ni1
+安妮		an1 ni1
+莲妮		lian2 ni1
+役		yi4
+退役		tui4 yi4
+战役		zhan4 yi4
+硝		xiao1
+硝烟		xiao1 yan1
+炭		tan4
+烧炭		shao1 tan4
+炭灰		tan4 hui1
+谊		yi4
+友谊		you3 yi4
+地主之谊		di4 zhu3 zhi1 yi4
+谣		yao2
+造谣		zao4 yao2
+谣言		yao2 yan2
+噩		e4
+噩梦		e4 meng4
+噩运		e4 yun4
+耗		hao4
+耗子		hao4 zi5
+耗费		hao4 fei4
+跺		duo4
+跺脚		duo4 jiao3
+跺跺脚		duo4 duo4 jiao3
+嫂		sao3
+大嫂		da4 sao3
+挎		kua4
+挎着		kua4 zhe5
+邀		yao1
+邀请		yao1 qing3
+应邀而来		ying4 yao1 er2 lai2
+俯		fu3
+俯冲		fu3 chong1
+俯视		fu3 shi4
+瀑		bao4
+瀑布		pu4 bu4
+峭		qiao4
+陡峭		dou3 qiao4
+尖峭		jian1 qiao4
+躯		qu1
+身躯		shen1 qu1
+躯体		qu1 ti3
+津		jin1
+津津有味		jin1 jin1 you3 wei4
+津津有味		jin1 jin1 you3 wei4
+蕴		yun4
+蕴藏		yun4 cang2
+蕴含着		yun4 han2 zhe5
+谧		mi4
+静谧		jing4 mi4
+巷		xiang4
+小巷		xiao3 xiang4
+巷子		xiang4 zi5
+俏		qiao4
+俏皮话		qiao4 pi2 hua4
+俏皮		qiao4 pi2
+逗		dou4
+真逗		zhen1 dou4
+逗人		dou4 ren2
+庞		pang2
+庞大		pang2 da4
+脸庞		lian3 pang2
+烘		hong1
+热烘烘		re4 hong1 hong1
+热烘烘		re4 hong1 hong1
+韵		yun4
+韵文		yun4 wen2
+押韵		ya1 yun4
+勤		qin2
+勤劳		qin2 lao2
+勤快		qin2 kuai4
+勉		mian3
+勉强		mian3 qiang3
+勤勉		qin2 mian3
+吻		wen3
+亲吻		qin1 wen3
+地吻		de5 wen3
+施		shi1
+施舍		shi1 she3
+发号施令		fa1 hao4 shi1 ling4
+挠		nao2
+不屈不挠		bu4 qu1 bu4 nao2
+抓挠		zhua1 nao2
+庸		yong1
+庸俗		yong1 su2
+平庸		ping2 yong1
+艰		jian1
+艰难		jian1 nan2
+艰苦		jian1 ku3
+毅		yi4
+毅力		yi4 li4
+但毅		dan4 yi4
+劣		lie4
+恶劣		e4 lie4
+劣马		lie4 ma3
+惹		re3
+惹火		re3 huo3
+惹出		re3 chu1
+讥		ji1
+讥笑		ji1 xiao4
+讥刺		ji1 ci4
+浆		jiang1
+浆果		jiang1 guo3
+糖浆		tang2 jiang1
+挚		zhi4
+诚挚		cheng2 zhi4
+真挚		zhen1 zhi4
+寝		qin3
+就寝		jiu4 qin3
+寝室		qin3 shi4
+频		pin2
+频率		pin2 lv4
+频繁		pin2 fan2
+朦		meng2
+迷朦		mi2 meng2
+胧		long2
+朦胧		meng2 long2
+朦朦胧胧		meng2 meng2 long2 long2
+凄		qi1
+凄凉		qi1 liang2
+凄惨		qi1 can3
+搁		ge1
+搁浅		ge1 qian3
+搁板		ge1 ban3
+填		tian2
+填上		tian2 shang4
+填满		tian2 man3
+怨		yuan4
+埋怨		man2 yuan4
+抱怨		bao4 yuan4
+掀		xian1
+掀开		xian1 kai1
+掀起		xian1 qi3
+唉		ai1
+唉呀		ai1 ya5
+唉声叹气		ai1 sheng1 tan4 qi4
+裹		guo3
+包裹		bao1 guo3
+裹住		guo3 zhu4
+魁		kui2
+魁梧		kui2 wu2
+高魁壮		gao1 kui2 zhuang4
+淋		lin2
+血淋淋		xie3 lin2 lin2
+血淋淋		xie3 lin2 lin2
+撕		si1
+撕成		si1 cheng2
+撕碎		si1 sui4
+霉		mei2
+倒霉		dao3 mei2
+发霉		fa1 mei2
+虑		lv4
+考虑		kao3 lv4
+忧虑		you1 lv4
+悠		you1
+转悠		zhuan4 you1
+慢悠悠		man4 you1 you1
+仪		yi2
+仪器		yi2 qi4
+仪式		yi2 shi4
+歉		qian4
+道歉		dao4 qian4
+抱歉		bao4 qian4
+溜		liu1
+达不溜		da2 bu4 liu1
+溜走		liu1 zou3
+嘿		hei1
+嘿嘿		hei1 hei1
+嘿嘿		hei1 hei1
+割		ge1
+割掉		ge1 diao4
+割下来		ge1 xia4 lai2
+晶		jing1
+水晶		shui3 jing1
+亮晶晶		liang4 jing1 jing1
+莹		ying2
+晶莹		jing1 ying2
+莹清		ying2 qing1
+蔼		ai3
+和蔼		he2 ai3
+和蔼可亲		he2 ai3 ke3 qin1
+资		zi1
+资格		zi1 ge2
+资料		zi1 liao4
+矿		kuang4
+金矿		jin1 kuang4
+矿石		kuang4 shi2
+赐		ci4
+赐给		ci4 gei3
+恩赐		en1 ci4
+竭		jie2
+竭力		jie2 li4
+精疲力竭		jing1 pi2 li4 jie2
+滥		lan4
+滥用		lan4 yong4
+狂轰滥炸		kuang2 hong1 lan4 zha4
+胁		xie2
+威胁		wei1 xie2
+威胁性		wei1 xie2 xing4
+睹		du3
+目睹		mu4 du3
+一睹		yi1 du3
+嗡		weng1
+嗡嗡地		weng1 weng1 de5
+嗡嗡地		weng1 weng1 de5
+骏		jun4
+骏马		jun4 ma3
+神骏		shen2 jun4
+鹰		ying1
+猫头鹰		mao1 tou2 ying1
+老鹰		lao3 ying1
+潺		chan2
+潺潺		chan2 chan2
+潺潺		chan2 chan2
+脂		zhi1
+油脂		you2 zhi1
+婴		ying1
+婴儿		ying1 er2
+婴孩		ying1 hai2
+眷		juan4
+眷属		juan4 shu3
+眷恋着		juan4 lian4 zhe5
+扭		niu3
+扭头		niu3 tou2
+扭树者		niu3 shu4 zhe3
+厨		chu2
+厨房		chu2 fang2
+厨师		chu2 shi1
+套		tao4
+一套		yi1 tao4
+套鞋		tao4 xie2
+猬		wei4
+刺猬		ci4 wei4
+刺猬皮		ci4 wei4 pi2
+畜		chu4
+牲畜		sheng1 chu4
+家畜		jia1 chu4
+窜		cuan4
+逃窜		tao2 cuan4
+上窜下跳		shang4 cuan4 xia4 tiao4
+挽		wan3
+挽救		wan3 jiu4
+挽成		wan3 cheng2
+囵		lun2
+囫		hu2
+囫囵		hu2 lun2
+枣		zao3
+枣子		zao3 zi5
+枣红马		zao3 hong2 ma3
+搞		gao3
+搞清楚		gao3 qing1 chu3
+搞错		gao3 cuo4
+恍		huang3
+恍然大悟		huang3 ran2 da4 wu4
+霜		shuang1
+严霜		yan2 shuang1
+白霜		bai2 shuang1
+详		xiang2
+详细		xiang2 xi4
+安详		an1 xiang2
+逝		shi4
+消逝		xiao1 shi4
+逝去		shi4 qu4
+章		zhang1
+文章		wen2 zhang1
+第三章		di4 san1 zhang1
+咳		hai1
+咳哟		hai1 yo1
+嗽		sou4
+咳嗽		ke2 sou4
+塑		su4
+塑料		su4 liao4
+塑料袋		su4 liao4 dai4
+寇		kou4
+寇易		kou4 yi4
+斯寇		si1 kou4
+蕉		jiao1
+香蕉		xiang1 jiao1
+筒		tong3
+话筒		hua4 tong3
+听筒		ting1 tong3
+躁		zao4
+暴躁		bao4 zao4
+烦躁		fan2 zao4
+革		ge2
+革命		ge2 ming4
+大革命		da4 ge2 ming4
+遭		zao1
+遭遇		zao1 yu4
+遭到		zao1 dao4
+泣		qi4
+哭泣		ku1 qi4
+抽泣		chou1 qi4
+浴		yu4
+浴室		yu4 shi4
+浴池		yu4 chi2
+搏		bo2
+搏斗		bo2 dou4
+脉搏		mai4 bo2
+碑		bei1
+纪念碑		ji4 nian4 bei1
+里程碑		li3 cheng2 bei1
+茵		yin1
+绿茵		lv4 yin1
+成茵		cheng2 yin1
+蜡		la4
+蜡烛		la4 zhu2
+蜡油		la4 you2
+陌		mo4
+陌生人		mo4 sheng1 ren2
+陌生		mo4 sheng1
+盲		mang2
+盲人		mang2 ren2
+文盲		wen2 mang2
+键		jian4
+关键		guan1 jian4
+关键时刻		guan1 jian4 shi2 ke4
+霎		sha4
+霎时间		sha4 shi2 jian1
+一霎那		yi1 sha4 na4
+录		lu4
+录音机		lu4 yin1 ji1
+记录		ji4 lu4
+挪		nuo2
+挪威		nuo2 wei1
+挪威人		nuo2 wei1 ren2
+蒸		zheng1
+蒸气		zheng1 qi4
+蒸汽		zheng1 qi4
+秧		yang1
+秧苗		yang1 miao2
+扭秧歌		niu3 yang1 ge1
+萎		wei3
+枯萎		ku1 wei1
+萎谢		wei1 xie4
+番		fan1
+一番		yi1 fan1
+这番话		zhe4 fan1 hua4
+锻		duan4
+锻炼		duan4 lian4
+锻造		duan4 zao4
+雅		ya3
+优雅		you1 ya3
+便雅明		bian4 ya3 ming2
+勃		bo2
+勃然大怒		bo2 ran2 da4 nu4
+生气勃勃		sheng1 qi4 bo2 bo2
+旬		xun2
+四旬		si4 xun2
+五旬		wu3 xun2
+熬		ao2
+难熬		nan2 ao2
+地熬		de5 ao2
+蒜		suan4
+鸡毛蒜皮		ji1 mao2 suan4 pi2
+装蒜		zhuang1 suan4
+醋		cu4
+糖醋		tang2 cu4
+醋里		cu4 li3
+榛		zhen1
+榛树		zhen1 shu4
+榛子		zhen1 zi5
+栗		li4
+栗子		li4 zi5
+不寒而栗		bu4 han2 er2 li4
+筝		zheng1
+风筝		feng1 zheng1
+放风筝		fang4 feng1 zheng1
+鞭		bian1
+鞭炮		bian1 pao4
+鞭子		bian1 zi5
+麦		mai4
+丹麦		dan1 mai4
+丹麦文		dan1 mai4 wen2
+寺		si4
+清真寺		qing1 zhen1 si4
+寺院		si4 yuan4
+逛		guang4
+逛商店		guang4 shang1 dian4
+逛逛		guang4 guang4
+籍		ji2
+国籍		guo2 ji2
+书籍		shu1 ji2
+屉		ti4
+抽屉		chou1 ti4
+怖		bu4
+恐怖		kong3 bu4
+可怖		ke3 bu4
+瞅		chou3
+眼瞅		yan3 chou3
+瞅见		chou3 jian4
+魔		mo2
+牛魔王		niu2 mo2 wang2
+魔鬼		mo2 gui3
+刑		xing2
+死刑		si3 xing2
+刑警		xing2 jing3
+哼		heng1
+哼哼		heng1 heng1
+哼哼		heng1 heng1
+峻		jun4
+严峻		yan2 jun4
+峻峭		jun4 qiao4
+残		can2
+残酷		can2 ku4
+自相残杀		zi4 xiang1 can2 sha1
+匪		fei3
+匪徒		fei3 tu2
+匪首		fei3 shou3
+啃		ken3
+啃着		ken3 zhe5
+啃掉		ken3 diao4
+舅		jiu4
+舅舅		jiu4 jiu4
+舅舅		jiu4 jiu4
+鼎		ding3
+大名鼎鼎		da4 ming2 ding3 ding3
+大名鼎鼎		da4 ming2 ding3 ding3
+旺		wang4
+旺盛		wang4 sheng4
+正旺		zheng4 wang4
+炊		chui1
+炊具		chui1 ju4
+炊烟		chui1 yan1
+裙		qun2
+裙子		qun2 zi5
+围裙		wei2 qun2
+兜		dou1
+兜里		dou1 li3
+衣兜		yi1 dou1
+币		bi4
+金币		jin1 bi4
+银币		yin2 bi4
+橱		chu2
+壁橱		bi4 chu2
+橱窗		chu2 chuang1
+锈		xiu4
+生了锈		sheng1 le5 xiu4
+生锈		sheng1 xiu4
+摩		mo2
+摩托车		mo2 tuo1 che1
+摩西		mo2 xi1
+揉		rou2
+揉碎		rou2 sui4
+揉成一团		rou2 cheng2 yi1 tuan2
+玛		ma3
+玛格丽特		ma3 ge2 li4 te4
+玛利亚		ma3 li4 ya4
+毒		du2
+恶毒		e4 du2
+毒药		du2 yao4
+撇		pie3
+撇撇嘴		pie1 pie3 zui3
+撇撇嘴		pie1 pie3 zui3
+噎		ye1
+噎住		ye1 zhu4
+抽噎		chou1 ye1
+搓		cuo1
+搓成		cuo1 cheng2
+搓手		cuo1 shou3
+匣		xia2
+匣子		xia2 zi5
+匣取		xia2 qu3
+喳		zha1
+喳喳		zha1 zha1
+喳喳		zha1 zha1
+吭		keng1
+不吭声		bu4 keng1 sheng1
+一声不吭		yi1 sheng1 bu4 keng1
+娜		na4
+丽娜		li4 na4
+安娜		an1 na4
+伊		yi1
+多伊		duo1 yi1
+伊索		yi1 suo3
+埃		ai1
+埃及		ai1 ji2
+出埃及记		chu1 ai1 ji2 ji4
+伦		lun2
+玛伦		ma3 lun2
+伦河		lun2 he2
+藤		teng2
+长春藤		chang2 chun1 teng2
+藤本植物		teng2 ben3 zhi2 wu4
+析		xi1
+分析		fen1 xi1
+分析仪器		fen1 xi1 yi2 qi4
+碱		jian3
+碱草		jian3 cao3
+碱水		jian3 shui3
+顽		wan2
+顽皮		wan2 pi2
+顽固		wan2 gu4
+卓		zhuo2
+远见卓识		yuan3 jian4 zhuo2 shi2
+卓丛		zhuo2 cong2
+效		xiao4
+效果		xiao4 guo3
+速效		su4 xiao4
+蚀		shi2
+月蚀		yue4 shi2
+冲蚀		chong1 shi2
+乏		fa2
+缺乏		que1 fa2
+困乏		kun4 fa2
+誉		yu4
+荣誉		rong2 yu4
+名誉		ming2 yu4
+衔		xian2
+头衔		tou2 xian2
+衔来		xian2 lai2
+粪		fen4
+粪便		fen4 bian4
+粪堆		fen4 dui1
+捐		juan1
+捐资		juan1 zi1
+捐献		juan1 xian4
+澡		zao3
+洗澡		xi3 zao3
+洗洗澡		xi3 xi3 zao3
+械		xie4
+机械师		ji1 xie4 shi1
+机械		ji1 xie4
+逆		ni4
+逆来顺受		ni4 lai2 shun4 shou4
+逆风		ni4 feng1
+域		yu4
+领域		ling3 yu4
+区域		qu1 yu4

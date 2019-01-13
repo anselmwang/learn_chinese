@@ -4,7 +4,7 @@ sys.path.append(r"C:\work\GitRoot\anki")
 from anki import Collection
 import collections
 import re
-import jieba
+
 
 def get_all_cards():
     #ids = col.findCards(u"deck:'Chinese::第一册'")
@@ -56,18 +56,6 @@ def close_col(col):
     col.close()
 
 
-BOOK1_PATH = r"c:\work\GitRoot\learn_chinese\data\舒克贝塔历险记.TXT"
-def get_content(book_path):
-    content = open(book_path).read()
-    content = content.replace("\n", "")
-    return content
-
-def get_sents(content):
-    sents = [sent.strip() for sent in re.split(u'\n|。|！ ', content) if sent.strip() != ""]
-    return  sents
-
-def get_words(content):
-    return list(jieba.cut(content))
 
 def get_readable_units(units, learnt_single_char_set):
     readable_units = []
